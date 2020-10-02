@@ -1,6 +1,6 @@
 <?php 
+	$pageTitle = "ABOUT US";
 	include('includes/header.php');
-	$page_title = "ABOUT US";
 ?>
 
 
