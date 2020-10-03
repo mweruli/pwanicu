@@ -1,5 +1,5 @@
 <h2 class="church-widget-heading">Departments</h2>
-<ul>
+<ul style="none">
 <li><a href="ict_depertment.php">ICT    Deparment</a></li>
 <li><a href="praise&worship.php">Praise & Worship</a></li>
 <li><a href="prayer_department.php">Prayer Deparment</a></li>

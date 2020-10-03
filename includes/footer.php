@@ -55,7 +55,7 @@
                     </div>
                     <div class="row col-ms-12 widget_service_note">
                     	<div >
-                                <p class="text-center">Sunday School available every second service.</p>
+                                <p class="text-center text-capitalize">Sunday School available every second service.</p>
                                 <span></span>
                             </div>
                     </div>
