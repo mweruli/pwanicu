@@ -1,4 +1,4 @@
-<?php include('includes/header.php'); ?>
+<?php $pageTitle = "ICT DEPT"; include('includes/header.php'); ?>
 
 
 <div class="church-subheader">
@@ -9,7 +9,9 @@
 				<div class="col-md-12">
 					<h1>ICT Department</h1>
 					<div class="clearfix"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aliquam ac egestas velit</p>
+					<p class="text-uppercase text-monocase">
+						DEPARTMENT OVERVIEW
+					</p>
 				</div>
 			</div>
 		</div>
@@ -19,8 +21,11 @@
 			<div class="row">
 				<div class="col-md-12">
 					<ul>
-						<li><a href="index.html">Homepage</a></li>
-						<li class="active">Departments</li>
+						<li>
+							<a href="index.php">Home</a>
+							<i class="fas fa-arrow-right"></i>
+						</li>
+						<li class="active">ICT Departments</li>
 					</ul>
 				</div>
 			</div>
@@ -37,14 +42,6 @@
 
 				<aside class="col-md-3">
 
-					<div class="widget widget_search">
-						<form>
-							<input value="Type here" onblur="if(this.value == '') { this.value ='Type here'; }" onfocus="if(this.value =='Type here') { this.value = ''; }" tabindex="0" type="text">
-							<label><input type="submit" value=""></label>
-						</form>
-					</div>
-
-
 					<div class="widget widget_cetagories">
 						<?php include('includes/department_links.php'); ?>
 					</div>
@@ -60,8 +57,20 @@
 										<figcaption class="church-time-date"><small>ICT Deparment</small></figcaption>
 									</figure>
 									<div class="church-blog-large-text">
-										<p>Sed vulputate elementum aliquam. Nunc vel efficitur ante. Ut gravida nulla id ornare sodales. Aenean aliquam mauris purus, eget mollis lectus sagittis sed. Cras varius est vel massa ultricies, ac rutrum urna hendrerit. Donec eu porta velit. Nam at urna eu libero suscipit semper. Curabitur sit amet sapien ut metus viverra varius ut porta metus.Sus- pendisse eu mattis diam, et iaculis libero. Vestibulum tincidunt sit amet dolor et sollicitudin.</p>
-										<!-- <a href="blog-detail.html" class="church-blog-readmore church-bgcolor">Read More</a> -->
+										<p class="text-justify">
+										The Media Team uses technology to help the various ministries at <strong>PWANI CU</strong> to accomplish their own missions
+										We strive for both spiritual and technical excellence. The Media Team provides an important role in Sunday worship through the sound, slide and video projection, lighting, and video feed to the Welcome Room. We also provide access to Sunday worship through online sermons and audio CD's.</p>
+										
+										<p class="text-justify"> In addition to Sunday worship, we provide technology for special events such as conferences, presentations, concerts, weddings, and memorial services. </p>
+
+										<p class="text-justify">The following are the primary positions on the Media Team. 
+											<ul>
+												<li> Projectionist: Responsible for preparing and/or projecting lyrics, presentations, videos, and other media for events and church services. EasyWorship software is used to integrate the various media into a schedule for projection. </li>
+												<li>Sound Operator: Responsible for the setup and live sound mixing for services, practices, and other church events.</li> 
+												
+												<li>Audio and Video Recording: Responsible for pre-mixing the audio and creating the recording for services and other events. Responsible for operating the video camera for recording the video as well as broadcasting the video to the Welcome Room. </li>
+											</ul>
+												<p>This person also operates the lights in the sanctuary. CD Production: Responsible for post-production of audio (and eventually video) recordings for duplication onto CDs. Anyone who has an ear for sound or is comfortable with computers and technology is welcome to join our team.</p>
 									</div>
 								</div>
 							</li>

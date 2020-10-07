@@ -1,4 +1,4 @@
-<?php include('includes/header.php'); ?>
+<?php $pageTitle = "Praise and Worship"; include('includes/header.php'); ?>
 
 <div class="church-subheader">
 	<div class="church-subheader-text">
@@ -8,7 +8,9 @@
 				<div class="col-md-12">
 					<h1>Praise & Worship</h1>
 					<div class="clearfix"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aliquam ac egestas velit</p>
+					<p class="text-uppercase text-monocase">
+						DEPARTMENT OVERVIEW
+					</p>
 				</div>
 			</div>
 		</div>
@@ -18,8 +20,11 @@
 			<div class="row">
 				<div class="col-md-12">
 					<ul>
-						<li><a href="index.html">Homepage</a></li>
-						<li class="active">Departments</li>
+						<li>
+							<a href="index.php">Home</a>
+							<i class="fas fa-arrow-right"></i>
+						</li>
+						<li class="active">Praise and Worship Departments</li>
 					</ul>
 				</div>
 			</div>
@@ -36,14 +41,6 @@
 
 				<aside class="col-md-3">
 
-					<div class="widget widget_search">
-						<form>
-							<input value="Type here" onblur="if(this.value == '') { this.value ='Type here'; }" onfocus="if(this.value =='Type here') { this.value = ''; }" tabindex="0" type="text">
-							<label><input type="submit" value=""></label>
-						</form>
-					</div>
-
-
 					<div class="widget widget_cetagories">
 						<?php include('includes/department_links.php'); ?>
 					</div>
@@ -59,8 +56,13 @@
 										<figcaption class="church-time-date"><small>Praise & Worship</small></figcaption>
 									</figure>
 									<div class="church-blog-large-text">
-										<p>Sed vulputate elementum aliquam. Nunc vel efficitur ante. Ut gravida nulla id ornare sodales. Aenean aliquam mauris purus, eget mollis lectus sagittis sed. Cras varius est vel massa ultricies, ac rutrum urna hendrerit. Donec eu porta velit. Nam at urna eu libero suscipit semper. Curabitur sit amet sapien ut metus viverra varius ut porta metus.Sus- pendisse eu mattis diam, et iaculis libero. Vestibulum tincidunt sit amet dolor et sollicitudin.</p>
-										<!-- <a href="blog-detail.html" class="church-blog-readmore church-bgcolor">Read More</a> -->
+										<p class="text-justify">
+											PUCU Worship has a team of over 70 members who worship in 1<sup>st</sup> 2<sup>nd</sup>  and 3<sup>rd</sup> services every month. </p>
+											<p class="text-justify">
+											Praise & Worship team exists to minister to the Lord through praise and worship, to encourage and lead the congregation into the presence of the Lord, and to facilitate and create an atmosphere where the presence of the Lord can dwell. Our goal is to lead people into the manifest presence of the Lord. </p>
+											<p class="text-justify">
+												The Praise & Worship ministry is a team of believers that are called not only to worship the Lord but to facilitate the worship experience, and carry the burden of the worship life of the Church. The Worship and Music ministry includes the creative department, vocals, worship teams, and the choir among other support departments embodied in the ministry’s leadership structure. Additionally, we hold quarterly worship experiences where we dedicate the entire service to worship the Lord.
+										</p>
 									</div>
 								</div>
 							</li>

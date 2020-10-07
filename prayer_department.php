@@ -1,4 +1,4 @@
-<?php include('includes/header.php'); ?>
+<?php $pageTitle = "Prayer Dept"; include('includes/header.php'); ?>
 
 <div class="church-subheader">
 	<div class="church-subheader-text">
@@ -8,7 +8,9 @@
 				<div class="col-md-12">
 					<h1>Prayer Department</h1>
 					<div class="clearfix"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aliquam ac egestas velit</p>
+					<p class="text-uppercase text-monocase">
+						DEPARTMENT OVERVIEW
+					</p>
 				</div>
 			</div>
 		</div>
@@ -18,8 +20,11 @@
 			<div class="row">
 				<div class="col-md-12">
 					<ul>
-						<li><a href="index.html">Homepage</a></li>
-						<li class="active">Departments</li>
+						<li>
+							<a href="index.php">Home</a>
+							<i class="fas fa-arrow-right"></i>
+						</li>
+						<li class="active">Prayer Department</li>
 					</ul>
 				</div>
 			</div>
@@ -35,15 +40,6 @@
 			<div class="row">
 
 				<aside class="col-md-3">
-
-					<div class="widget widget_search">
-						<form>
-							<input value="Type here" onblur="if(this.value == '') { this.value ='Type here'; }" onfocus="if(this.value =='Type here') { this.value = ''; }" tabindex="0" type="text">
-							<label><input type="submit" value=""></label>
-						</form>
-					</div>
-
-
 					<div class="widget widget_cetagories">
 						<?php include('includes/department_links.php'); ?>
 					</div>
@@ -59,8 +55,14 @@
 										<figcaption class="church-time-date"><small>Prayer Deparment</small></figcaption>
 									</figure>
 									<div class="church-blog-large-text">
-										<p>Sed vulputate elementum aliquam. Nunc vel efficitur ante. Ut gravida nulla id ornare sodales. Aenean aliquam mauris purus, eget mollis lectus sagittis sed. Cras varius est vel massa ultricies, ac rutrum urna hendrerit. Donec eu porta velit. Nam at urna eu libero suscipit semper. Curabitur sit amet sapien ut metus viverra varius ut porta metus.Sus- pendisse eu mattis diam, et iaculis libero. Vestibulum tincidunt sit amet dolor et sollicitudin.</p>
-										<!-- <a href="blog-detail.html" class="church-blog-readmore church-bgcolor">Read More</a> -->
+										<p class="text-justify">
+										<strong>Greetings. </strong> A lot has happened with the COVID 19 pandemic. Issues that we didn’t even expect came alongside this pandemic.</p>
+										<p class="text-justify"> 
+										As Christians, we have had no choice apart from calling on God that he may reveal his salvation to us. As the Pwani CU, we have continually sought the face of God together on Wednesdays as we stand on the gap on behalf of the nation's leadership and even concerning education. Though prayers on online platforms have marked a poor attendance Glory to God there is no single Wednesday we have had zero attendance on prayers via zoom platform.! 
+										</p>
+										<p class="text-justify"> 
+										Let’s keep standing on the gap and interceding because for sure even if our prayers may not be answered now. God will in His right time. We have had some technical problems with zoom and opted to use google meet. Please download this app and join us on Wednesdays as we seek God together.
+										</p>
 									</div>
 								</div>
 							</li>

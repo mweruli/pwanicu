@@ -1,4 +1,4 @@
-<?php include('includes/header.php'); ?>
+<?php $pageTitle = "CM DEPT"; include('includes/header.php'); ?>
 
 
 <div class="church-subheader">
@@ -9,7 +9,9 @@
 				<div class="col-md-12">
 					<h1>Creative Ministry</h1>
 					<div class="clearfix"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aliquam ac egestas velit</p>
+					<p class="text-uppercase text-monocase">
+						DEPARTMENT OVERVIEW
+					</p>
 				</div>
 			</div>
 		</div>
@@ -19,8 +21,11 @@
 			<div class="row">
 				<div class="col-md-12">
 					<ul>
-						<li><a href="index.html">Homepage</a></li>
-						<li class="active">Departments</li>
+						<li>
+							<a href="index.php">Home</a>
+							<i class="fas fa-arrow-right"></i>
+						</li>
+						<li class="active">Creative Ministry Departments</li>
 					</ul>
 				</div>
 			</div>
@@ -37,14 +42,6 @@
 
 				<aside class="col-md-3">
 
-					<div class="widget widget_search">
-						<form>
-							<input value="Type here" onblur="if(this.value == '') { this.value ='Type here'; }" onfocus="if(this.value =='Type here') { this.value = ''; }" tabindex="0" type="text">
-							<label><input type="submit" value=""></label>
-						</form>
-					</div>
-
-
 					<div class="widget widget_cetagories">
 						<?php include('includes/department_links.php'); ?>
 					</div>
@@ -60,8 +57,11 @@
 										<figcaption class="church-time-date"><small>Creative Ministry</small></figcaption>
 									</figure>
 									<div class="church-blog-large-text">
-										<p>Sed vulputate elementum aliquam. Nunc vel efficitur ante. Ut gravida nulla id ornare sodales. Aenean aliquam mauris purus, eget mollis lectus sagittis sed. Cras varius est vel massa ultricies, ac rutrum urna hendrerit. Donec eu porta velit. Nam at urna eu libero suscipit semper. Curabitur sit amet sapien ut metus viverra varius ut porta metus.Sus- pendisse eu mattis diam, et iaculis libero. Vestibulum tincidunt sit amet dolor et sollicitudin.</p>
-										<!-- <a href="blog-detail.html" class="church-blog-readmore church-bgcolor">Read More</a> -->
+										<p class="text-justify">
+										<strong>Greetings!</strong> We thank God that even though we are in a period of uncertainties, where we aren't able to meet physically, as the creative Ministry department. We have been meeting together online in our WhatsApp platform. We have been helping each other grow in the talents the Lord has blessed us with.</p>
+										<p class="text-justify"> 
+											In the last few months, we have had two discussions on; King Solomon and “Why does God have so many rules?”.... attendance was encouraging! I am inviting all of us to be a part of this! Blessings!
+										</p>
 									</div>
 								</div>
 							</li>
