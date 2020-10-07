@@ -12,7 +12,7 @@ include('includes/header.php');
 				<div class="col-md-12">
 					<h1 class="text-primary text-uppercase">About Us</h1>
 					<div class="clearfix"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aliquam ac egestas velit</p>
+					<p>Welcome to Pwani University christian Union</p>
 				</div>
 			</div>
 		</div>
@@ -23,7 +23,7 @@ include('includes/header.php');
 				<div class="col-md-12">
 					<ul>
 						<li>
-							<a href="index.php">Home<i class="fas fa-arrow-right"></i></a>
+							<a href="index.php">Home <i class="fas fa-arrow-right"></i></a>
 						</li>
 						<li class="active">About Us</li>
 					</ul>
@@ -44,9 +44,8 @@ include('includes/header.php');
 						<figcaption>
 							<div class="church-about-text">
 								<h2>“Engaging God's world through faith”</h2>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac egestas velit. Curabitur pellentesque nisl eu nisl malesuada suscipit. Sed aliquet diam sed mauris dictum rutrum. Etiam facili- sis sit amet purus ac dignissim.</p>
-								<p>Pellentesque ex felis, fermentum vitae erat vitae, fermentum luctus risus. Nulla blandit ornare magna nec tristique.Sus- pendisse auctor ligula sit amet libero.</p>
-								<a href="event-detail.html" class="church-btn">Join Our Event</a>
+								<p>Pwani University Christian Union is a body of Christian students from Pwani University-bound together by a common faith in the only God and joined together with the heavenly calling of Christ according to the Holy Scriptures. Our doctrinal basis as the Christian body is the fundamental truth about Christianity and we believe in the unity of the Father, the Son, and the Holy Spirit in the Godhead, the Sovereignty of God in the creation, revelation, redemption, and final judgment and the divine inspiration and entire truthfulness of the Holy Scriptures originally given and its supreme authority in all matters of faith and conduct. We engage in evangelism, open-air crusades, and outreach missions and ministries as a fulfillment of the great commission the main purpose of them all being able to reach as many believers as possible.</p>
+								<a href="index.php" class="church-btn">Join Our Events</a>
 							</div>
 							<img src="extra-images/about-thumb-img2.png" alt="">
 						</figcaption>
@@ -63,7 +62,7 @@ include('includes/header.php');
 				<div class="col-md-12">
 					<div class="church-fancy-title">
 						<h2>[ Meet Our Team ]</h2>
-						<span>Check out our latest photos & videos.</span>
+						<!-- <span>Check out our latest photos & videos.</span> -->
 					</div>
 					<div class="church-team church-team-grid">
 						<ul class="row">
@@ -81,14 +80,14 @@ include('includes/header.php');
 									</figure>
 									<div class="church-team-grid-text">
 										<h2><a href="team-detail.html">David Jorden</a></h2>
-										<span>Web Designer</span>
+										<span>CHAIR PERSON</span>
 										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales.</p>
 									</div>
 								</div>
 							</li>
 							<li class="col-md-3">
 								<div class="church-team-grid-wrap">
-									<figure><a href="team-detail.html"><img src="extra-images/team-grid-img2.jpg" alt=""></a>
+									<figure><a href="#"><img src="extra-images/team-grid-img4.jpg" alt=""></a>
 										<figcaption>
 											<ul class="church-team-social">
 												<li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
@@ -99,8 +98,8 @@ include('includes/header.php');
 										</figcaption>
 									</figure>
 									<div class="church-team-grid-text">
-										<h2><a href="team-detail.html">Marlon Smith</a></h2>
-										<span>Web Designer</span>
+										<h2><a href="#">Marlon Smith</a></h2>
+										<span>VICE CHAIRPERSON</span>
 										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales.</p>
 									</div>
 								</div>
@@ -118,15 +117,15 @@ include('includes/header.php');
 										</figcaption>
 									</figure>
 									<div class="church-team-grid-text">
-										<h2><a href="team-detail.html">Sarena Doe</a></h2>
-										<span>Web Designer</span>
+										<h2><a href="#">Sarena Doe</a></h2>
+										<span>SECRETARY</span>
 										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales.</p>
 									</div>
 								</div>
 							</li>
 							<li class="col-md-3">
 								<div class="church-team-grid-wrap">
-									<figure><a href="team-detail.html"><img src="extra-images/team-grid-img4.jpg" alt=""></a>
+									<figure><a href="#"><img src="extra-images/team-grid-img2.jpg" alt=""></a>
 										<figcaption>
 											<ul class="church-team-social">
 												<li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
@@ -137,8 +136,8 @@ include('includes/header.php');
 										</figcaption>
 									</figure>
 									<div class="church-team-grid-text">
-										<h2><a href="team-detail.html">Merry Stewart</a></h2>
-										<span>Web Designer</span>
+										<h2><a href="#">Merry Stewart</a></h2>
+										<span>TREASURER</span>
 										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales.</p>
 									</div>
 								</div>
@@ -152,7 +151,7 @@ include('includes/header.php');
 	<div class="church-main-content">
 		<div class="church-fancy-title">
 			<h2>[ What Drives Us ]</h2>
-			<span>Check out our latest photos & videos.</span>
+			<!-- <span>Check out our latest photos & videos.</span> -->
 		</div>
 		<div class="church-main-section" id="#drives">
 			<div class="container">
@@ -166,8 +165,9 @@ include('includes/header.php');
 											<figcaption class="church-time-date"><span></span> <small>Mission</small></figcaption>
 										</figure>
 										<div class="church-bloggrid-slidetext">
-											<p>Pellentesque orci est, ornare et placerat nec bibe ndum eu magna. Suspendisse potenti. Nullam dignissim.</p>
-											<!-- <a href="blog-detail.html" class="church-blog-readmore church-bgcolor">Read Article</a> -->
+											<p>
+												The model of Godly transformation in church and society.
+											</p>
 										</div>
 									</div>
 								</li>
@@ -177,8 +177,9 @@ include('includes/header.php');
 											<figcaption class="church-time-date"><span></span> <small>Vision</small></figcaption>
 										</figure>
 										<div class="church-bloggrid-slidetext">
-											<p>Sed vulputate elementum aliquam. Nunc vel efficitur ante. Ut gravida nulla id ornare sodales. Aenean aliquam mauris.</p>
-											<!-- <a href="blog-detail.html" class="church-blog-readmore church-bgcolor">Read Article</a> -->
+											<p>
+												The model of Godly transformation in church and society.
+											</p>
 										</div>
 									</div>
 								</li>
@@ -188,8 +189,9 @@ include('includes/header.php');
 											<figcaption class="church-time-date"><span></span> <small>Our Belief</small></figcaption>
 										</figure>
 										<div class="church-bloggrid-slidetext">
-											<p>Donec eu porta velit. Nam at urna eu libero suscipit semper. Curabitur sit amet sapien ut metus viverra varius ut porta metus.</p>
-											<!-- <a href="blog-detail.html" class="church-blog-readmore church-bgcolor">Read Article</a> -->
+											<p>
+												The model of Godly transformation in church and society.
+											</p>
 										</div>
 									</div>
 							</ul>

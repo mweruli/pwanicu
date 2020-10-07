@@ -441,13 +441,13 @@ include('includes/header.php'); ?>
                             </div>
                             <div class="church-testimonial-thumb-layer">
                                 <div class="church-testimonial-text">
-                                    <p>The church family has always been warm and loving and welcomed my family with open arms. I love Hardship & everything about it.</p>
+                                    <p>The church family has always been warm and loving and welcomed my family with open arms. I love PWANI CU & everything about it.</p>
                                     <a href="alumni.php">- Jessica J.</a>
                                 </div>
                             </div>
                             <div class="church-testimonial-thumb-layer">
                                 <div class="church-testimonial-text">
-                                    <p>The church family has always been warm. I love Hardship & everything about it and loving and welcomed my family with open arms. </p>
+                                    <p>The church family has always been warm. I love PWANI CU & everything about it and loving and welcomed my family with open arms. </p>
                                     <a href="alumni.php">- Jessica J.</a>
                                 </div>
                             </div>
