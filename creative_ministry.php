@@ -53,7 +53,7 @@
 						<ul class="row">
 							<li class="col-md-12">
 								<div class="church-blog-large-wrap">
-									<figure><a href="blog-detail.html"><img src="extra-images/blog-large-img1.jpg" alt=""><i class="icon church-unlink"></i></a>
+									<figure><a href="blog-detail.html"><img src="extra-images/blog-large-img1.jpg" alt=""><i class="fab fa-algolia"></i></a>
 										<figcaption class="church-time-date"><small>Creative Ministry</small></figcaption>
 									</figure>
 									<div class="church-blog-large-text">

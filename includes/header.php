@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>PWANI CU || <?php echo strtoupper($pageTitle); ?> </title>
+<title><?php echo strtoupper($pageTitle); ?> || PWANI CU  </title>
 
 <link rel="icon" type="image/ico" href="../fav-icon.png">
 <link href="css/bootstrap.css" rel="stylesheet">

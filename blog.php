@@ -9,7 +9,7 @@ include('includes/header.php'); ?>
 				<div class="col-md-12">
 					<h1>Pwani CU Blog</h1>
 					<div class="clearfix"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aliquam ac egestas velit</p>
+					<p>Our Blog</p>
 				</div>
 			</div>
 		</div>
@@ -48,12 +48,12 @@ include('includes/header.php'); ?>
 					<div class="widget widget_cetagories">
 						<h2 class="church-widget-headingxdidget-heading">[ Cetagories ]</h2>
 						<ul>
-							<li><a href="404.html">Teams</a></li>
-							<li><a href="404.html">Charity</a></li>
-							<li><a href="404.html">Donation</a></li>
-							<li><a href="404.html">Blogs</a></li>
-							<li><a href="404.html">Sermons</a></li>
-							<li><a href="404.html">Events</a></li>
+							<li><a href="blog.php">Teams</a></li>
+							<li><a href="blog.php">Charity</a></li>
+							<li><a href="blog.php">Donation</a></li>
+							<li><a href="blog.php">Blogs</a></li>
+							<li><a href="blog.php">Sermons</a></li>
+							<li><a href="blog.php">Events</a></li>
 						</ul>
 					</div>
 
@@ -240,8 +240,8 @@ include('includes/header.php'); ?>
 									<div class="church-bloggrid-slidetext">
 										<h2><a href="blog-detail.html">Samaritan’s Purse Flood Relief</a></h2>
 										<ul class="church-blog-option">
-											<li>by <a href="404.html">James Korks</a></li>
-											<li><i class="fa fa-comments-o"></i> <a href="404.html">13 comments</a></li>
+											<li>by <a href="blog.php">James Korks</a></li>
+											<li><i class="fa fa-comments-o"></i> <a href="blog.php">13 comments</a></li>
 										</ul>
 										<p>Pellentesque orci est, ornare et placerat nec bibe ndum eu magna. Suspendisse potenti. Nullam dignissim.</p>
 										<a href="blog-detail.html" class="church-blog-readmore church-bgcolor">Read Article</a>
@@ -256,8 +256,8 @@ include('includes/header.php'); ?>
 									<div class="church-bloggrid-slidetext">
 										<h2><a href="blog-detail.html">Aliquam ac Egestas Velit Curabitur</a></h2>
 										<ul class="church-blog-option">
-											<li>by <a href="404.html">James Korks</a></li>
-											<li><i class="fa fa-comments-o"></i> <a href="404.html">13 comments</a></li>
+											<li>by <a href="blog.php">James Korks</a></li>
+											<li><i class="fa fa-comments-o"></i> <a href="blog.php">13 comments</a></li>
 										</ul>
 										<p>Sed vulputate elementum aliquam. Nunc vel efficitur ante. Ut gravida nulla id ornare sodales. Aenean aliquam mauris.</p>
 										<a href="blog-detail.html" class="church-blog-readmore church-bgcolor">Read Article</a>
@@ -272,8 +272,8 @@ include('includes/header.php'); ?>
 									<div class="church-bloggrid-slidetext">
 										<h2><a href="blog-detail.html">Pellen Tesque Nisl eu Nisl Malesu</a></h2>
 										<ul class="church-blog-option">
-											<li>by <a href="404.html">James Korks</a></li>
-											<li><i class="fa fa-comments-o"></i> <a href="404.html">13 comments</a></li>
+											<li>by <a href="blog.php">James Korks</a></li>
+											<li><i class="fa fa-comments-o"></i> <a href="blog.php">13 comments</a></li>
 										</ul>
 										<p>Donec eu porta velit. Nam at urna eu libero suscipit semper. Curabitur sit amet sapien ut metus viverra varius ut porta metus.</p>
 										<a href="blog-detail.html" class="church-blog-readmore church-bgcolor">Read Article</a>
@@ -288,8 +288,8 @@ include('includes/header.php'); ?>
 									<div class="church-bloggrid-slidetext">
 										<h2><a href="blog-detail.html">Sed Aliquet Diam Sed Mauris Dict</a></h2>
 										<ul class="church-blog-option">
-											<li>by <a href="404.html">James Korks</a></li>
-											<li><i class="fa fa-comments-o"></i> <a href="404.html">13 comments</a></li>
+											<li>by <a href="blog.php">James Korks</a></li>
+											<li><i class="fa fa-comments-o"></i> <a href="blog.php">13 comments</a></li>
 										</ul>
 										<p>Nunc sit amet nulla eu ipsum vehicula interdum. Etiam mattis tortor at scelerisque accumsan. Proin tristique turpis</p>
 										<a href="blog-detail.html" class="church-blog-readmore church-bgcolor">Read Article</a>
@@ -304,8 +304,8 @@ include('includes/header.php'); ?>
 									<div class="church-bloggrid-slidetext">
 										<h2><a href="blog-detail.html">Etiam Facilisis Sit Amet Purus Ac</a></h2>
 										<ul class="church-blog-option">
-											<li>by <a href="404.html">James Korks</a></li>
-											<li><i class="fa fa-comments-o"></i> <a href="404.html">13 comments</a></li>
+											<li>by <a href="blog.php">James Korks</a></li>
+											<li><i class="fa fa-comments-o"></i> <a href="blog.php">13 comments</a></li>
 										</ul>
 										<p>Fusce pulvinar tortor viverra aliquam semper. Cras in sapien ultrices, molestie sapien ac, sodales leo. </p>
 										<a href="blog-detail.html" class="church-blog-readmore church-bgcolor">Read Article</a>
@@ -320,8 +320,8 @@ include('includes/header.php'); ?>
 									<div class="church-bloggrid-slidetext">
 										<h2><a href="blog-detail.html">Pellen tesque Felis Fermentum Vit</a></h2>
 										<ul class="church-blog-option">
-											<li>by <a href="404.html">James Korks</a></li>
-											<li><i class="fa fa-comments-o"></i> <a href="404.html">13 comments</a></li>
+											<li>by <a href="blog.php">James Korks</a></li>
+											<li><i class="fa fa-comments-o"></i> <a href="blog.php">13 comments</a></li>
 										</ul>
 										<p>Vivamus malesuada nunc nibh. Aenean eu leo nec sapien ornare luctus et at justo. Interdum et malesuada fames ac ante bus.</p>
 										<a href="blog-detail.html" class="church-blog-readmore church-bgcolor">Read Article</a>
@@ -336,8 +336,8 @@ include('includes/header.php'); ?>
 									<div class="church-bloggrid-slidetext">
 										<h2><a href="blog-detail.html">Nulla Blandit Ornare Magna Nec </a></h2>
 										<ul class="church-blog-option">
-											<li>by <a href="404.html">James Korks</a></li>
-											<li><i class="fa fa-comments-o"></i> <a href="404.html">13 comments</a></li>
+											<li>by <a href="blog.php">James Korks</a></li>
+											<li><i class="fa fa-comments-o"></i> <a href="blog.php">13 comments</a></li>
 										</ul>
 										<p>Etiam auctor dignissim bibendum. Nunc pulvinar massa nunc, quis pellentesque felis suscipit eu. </p>
 										<a href="blog-detail.html" class="church-blog-readmore church-bgcolor">Read Article</a>
@@ -352,8 +352,8 @@ include('includes/header.php'); ?>
 									<div class="church-bloggrid-slidetext">
 										<h2><a href="blog-detail.html">Suspendisse Auctor Ligula Sit</a></h2>
 										<ul class="church-blog-option">
-											<li>by <a href="404.html">James Korks</a></li>
-											<li><i class="fa fa-comments-o"></i> <a href="404.html">13 comments</a></li>
+											<li>by <a href="blog.php">James Korks</a></li>
+											<li><i class="fa fa-comments-o"></i> <a href="blog.php">13 comments</a></li>
 										</ul>
 										<p>Phasellus metus risus, ultricies a arcu vitae, rutrum iaculis dolor. Maecenas in rhoncus tellus, nec mollis ex.</p>
 										<a href="blog-detail.html" class="church-blog-readmore church-bgcolor">Read Article</a>
@@ -365,12 +365,12 @@ include('includes/header.php'); ?>
 
 					<div class="church-pagination">
 						<ul class="page-numbers">
-							<li><a class="previous page-numbers" href="404.html"><span aria-label="Next"><i class="fa fa-angle-left"></i></span></a></li>
+							<li><a class="previous page-numbers" href="blog.php"><span aria-label="Next"><i class="fa fa-angle-left"></i></span></a></li>
 							<li><span class="page-numbers current">01</span></li>
-							<li><a class="page-numbers" href="404.html">02</a></li>
-							<li><a class="page-numbers" href="404.html">03</a></li>
-							<li><a class="page-numbers" href="404.html">04</a></li>
-							<li><a class="next page-numbers" href="404.html"><span aria-label="Next"><i class="fa fa-angle-right"></i></span></a></li>
+							<li><a class="page-numbers" href="blog.php">02</a></li>
+							<li><a class="page-numbers" href="blog.php">03</a></li>
+							<li><a class="page-numbers" href="blog.php">04</a></li>
+							<li><a class="next page-numbers" href="blog.php"><span aria-label="Next"><i class="fa fa-angle-right"></i></span></a></li>
 						</ul>
 					</div>
 
