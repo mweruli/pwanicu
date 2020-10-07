@@ -10,7 +10,7 @@ include('includes/header.php'); ?>
                 <div class="row">
                     <div class="col-md-8">
                         <div class="church-banner-text">
-                            <h1>Do not forget to show <a href="404.html">hospitality</a> to strangers, for by so doing some people have shown <a href="404.html">hospitality</a> to angels without knowing it.</h1>
+                            <h1>Do not forget to show <a href="error.php">hospitality</a> to strangers, for by so doing some people have shown <a href="error.php">hospitality</a> to angels without knowing it.</h1>
                             <span><i class="fas fa-arrow-right"></i>Hebrews 13:2</span>
                         </div>
                     </div>
@@ -21,7 +21,7 @@ include('includes/header.php'); ?>
             <img src="images/title-img1.png" alt="">
             <h2>We're excited about God and the good things He's doing on earth, and love that we get to be part of it!</h2>
             <h6>“Spiritual maturity is for everyone - no matter what your age is.”</h6>
-            <a href="404.html" class="church-btn">Share This</a>
+            <a href="error.php" class="church-btn">Share This</a>
         </div>
     </div>
     <div class="church-banner-layer">
@@ -43,7 +43,7 @@ include('includes/header.php'); ?>
             <img src="images/title-img1.png" alt="">
             <h2>We're excited about God and the good things He's doing on earth, and love that we get to be part of it!</h2>
             <h6>“Spiritual maturity is for everyone - no matter what your age is.”</h6>
-            <a href="404.html" class="church-btn">Share This</a>
+            <a href="error.php" class="church-btn">Share This</a>
         </div>
     </div>
 
@@ -66,21 +66,21 @@ include('includes/header.php'); ?>
                         <ul class="row">
                             <li class="col-md-4">
                                 <figure>
-                                    <a href="about-us.html"><img src="extra-images/about-service-img1.jpg" alt="About Pwani University CU"></a>
+                                    <a href="about-us.php"><img src="extra-images/about-service-img1.jpg" alt="About Pwani University CU"></a>
                                 </figure>
-                                <a href="about-us.html" class="church-simple-btn">ABOUT US</a>
+                                <a href="about-us.php" class="church-simple-btn">ABOUT US</a>
                             </li>
                             <li class="col-md-4">
                                 <figure>
-                                    <a href="404.html"><img src="extra-images/about-service-img2.jpg" alt=""></a>
+                                    <a href="sermons.php"><img src="extra-images/about-service-img2.jpg" alt=""></a>
                                 </figure>
-                                <a href="sermons.html" class="church-simple-btn">SEM ACTIVITIES</a>
+                                <a href="sermons.php" class="church-simple-btn">SEM ACTIVITIES</a>
                             </li>
                             <li class="col-md-4">
                                 <figure>
-                                    <a href="sermons.html"><img src="extra-images/about-service-img3.jpg" alt=""></a>
+                                    <a href="sermons.php"><img src="extra-images/about-service-img3.jpg" alt=""></a>
                                 </figure>
-                                <a href="404.html" class="church-simple-btn">SERMONS</a>
+                                <a href="sermons.php" class="church-simple-btn">SERMONS</a>
                             </li>
                         </ul>
                     </div>
@@ -98,7 +98,9 @@ include('includes/header.php'); ?>
                 </div>
                 <div class="col-md-7">
                     <div class="church-author-text">
-                        <h5>Welcome to Pwani University Christian Union</h5>
+                        <h4 class="text-center">
+                            Welcome to<br><span> Pwani University Christian Union</span>
+                        </h4>
                         <img src="images/title-img2.png" alt="Pwani CU Main Photo">
                         <div class="panel-group church-faq-accordion" id="accordion1" role="tablist" aria-multiselectable="true">
                             <!-- Mission -->
@@ -110,7 +112,9 @@ include('includes/header.php'); ?>
                                 </div>
                                 <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                     <div class="panel-body">
-                                        <p>To be a model for Godly Transformation to church and society. </p>
+                                        <p>
+                                            The model of Godly transformation in church and society.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -124,8 +128,9 @@ include('includes/header.php'); ?>
                                 </div>
                                 <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                     <div class="panel-body">
-                                        <p>Pwani University Christian Union is a body of Christian students from Pwani University bound together by a common faith in the only God and joined together with the heavenly calling of Christ according to
-                                            the Holy Scriptures.</p>
+                                        <p>
+                                            The model of Godly transformation in church and society.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -139,7 +144,7 @@ include('includes/header.php'); ?>
                                 </div>
                                 <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                     <div class="panel-body">
-                                        <p>Sed vulputate elementum aliquam. Nunc vel efficitur ante. Ut gravida nulla id ornare sodales. Aenean aliquam mauris purus, eget mollis lectus sagittis sed. </p>
+                                        <p>Our doctrinal basis as the Christian body is the fundamental truth about Christianity and we believe in the unity of the Father, the Son, and the Holy Spirit in the Godhead, the Sovereignty of God in the creation, revelation, redemption, and final judgment and the divine inspiration and entire truthfulness of the Holy Scriptures originally given and its supreme authority in all matters of faith and conduct.</p>
                                     </div>
                                 </div>
                             </div>
@@ -158,11 +163,11 @@ include('includes/header.php'); ?>
             <div class="row">
                 <div class="col-md-12">
                     <div class="church-countdown-text">
-                        <h2>PRAYER NIGHT</h2>
-                        <time datetime="2008-02-14 20:00">Saturday @ 11am - 288 Meadowcrest Lane</time>
+                        <h2>PRAYER <span>NIGHT</span></h2>
+                        <time datetime="2020-12-14 20:00">Saturday @ 08:00PM. LTN Hall</time>
                         <div class="church-countdown" id="church-countdown"></div>
                         <div class="clearfix"></div>
-                        <a href="404.html" class="church-btn">Join Us</a>
+                        <a href="#" class="church-btn btn-lg">Join Us</a>
                     </div>
                 </div>
             </div>
@@ -177,7 +182,7 @@ include('includes/header.php'); ?>
             <div class="row">
                 <div class="col-md-12">
                     <div class="church-fancy-title">
-                        <h2>Church Activities</h2>
+                        <h2>Church <span>Activities</span></h2>
                         <span>What's happening in the Church this Semester?</span>
                     </div>
                 </div>
@@ -229,7 +234,7 @@ include('includes/header.php'); ?>
                                 <div class="church-featured-sermon-text">
                                     <h6><a href="sermon-detail.html">There’s no chance of coming back</a></h6>
                                     <ul class="church-featured-option">
-                                        <li><a href="404.html">by Meredith K. James</a></li>
+                                        <li><a href="error.php">by Meredith K. James</a></li>
                                         <li><time datetime="2008-02-14 20:00"><i class="far fa-calendar-alt"></i>May 28, 2017</time></li>
                                     </ul>
                                     <div class="church-sermon-player">
@@ -276,7 +281,7 @@ include('includes/header.php'); ?>
                                 <div class="church-featured-sermon-text">
                                     <h6><a href="sermon-detail.html">There’s no chance of coming back</a></h6>
                                     <ul class="church-featured-option">
-                                        <li><a href="404.html">by Carmen J. Mendez</a></li>
+                                        <li><a href="error.php">by Carmen J. Mendez</a></li>
                                         <li><time datetime="2008-02-14 20:00"><i class="icon church-calendar"></i>May 25, 2017</time></li>
                                     </ul>
                                     <div class="church-sermon-player">
@@ -324,7 +329,7 @@ include('includes/header.php'); ?>
                                 <div class="church-featured-sermon-text">
                                     <h6><a href="sermon-detail.html">There’s no chance of coming back</a></h6>
                                     <ul class="church-featured-option">
-                                        <li><a href="404.html">by Dolores Krump</a></li>
+                                        <li><a href="error.php">by Dolores Krump</a></li>
                                         <li><time datetime="2008-02-14 20:00"><i class="icon church-calendar"></i>May 20, 2017</time></li>
                                     </ul>
                                     <div class="church-sermon-player">
@@ -379,12 +384,12 @@ include('includes/header.php'); ?>
                     <div class="church-meet-location">
                         <h2>Meet our <span>Departments</span> </h2>
                         <div class="church-location-city">
-                            <a href="about-us.php" class="church-simple-btn ">ICT Deparment</a>
-                            <a href="about-us.php" class="church-simple-btn">Praise & Worship</a>
-                            <a href="about-us.php" class="church-simple-btn">Prayer Deparment</a>
-                            <a href="about-us.php" class="church-simple-btn">Mission Deparment</a>
-                            <a href="about-us.php" class="church-simple-btn">Choir Deparment</a>
-                            <a href="about-us.php" class="church-simple-btn">Creative Ministry</a>
+                            <a href="ict_depertment.php" class="church-simple-btn ">ICT Deparment</a>
+                            <a href="praise&worship.php" class="church-simple-btn">Praise & Worship</a>
+                            <a href="prayer_department.php" class="church-simple-btn">Prayer Deparment</a>
+                            <a href="mission_department.php" class="church-simple-btn">Mission Deparment</a>
+                            <a href="choir _deparment.php" class="church-simple-btn">Choir Deparment</a>
+                            <a href="creative_ministry.php" class="church-simple-btn">Creative Ministry</a>
                         </div>
                     </div>
                 </div>
@@ -416,8 +421,8 @@ include('includes/header.php'); ?>
             <div class="row">
                 <div class="col-md-12">
                     <div class="church-fancy-title">
-                        <h2>Church Testimonials</h2>
-                        <span>What people say about the CU.</span>
+                        <h2>Church <span> Testimonials </span></h2>
+                        <p>What people say about the CU.</p>
                     </div>
                     <div class="clearfix"></div>
                     <div class="church-testimonial">

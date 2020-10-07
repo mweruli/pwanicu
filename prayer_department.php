@@ -63,6 +63,11 @@
 										<p class="text-justify"> 
 										Let’s keep standing on the gap and interceding because for sure even if our prayers may not be answered now. God will in His right time. We have had some technical problems with zoom and opted to use google meet. Please download this app and join us on Wednesdays as we seek God together.
 										</p>
+										<p class="text-justify">
+											As prayer departments we thank God for this far, seeking God for direction, listening to Him from an individual perspective, and also as the whole church is what makes us joyous. It makes us know that we don't do things from an emotional point of view but from the impulse of the Holy ghost within and per the voice of our heavenly father.</p>
+											<p>
+											We've continued with hosting online prayer fellow-ships that have faced challenges but we bless God for He has not left us even in all that, we've witnessed an increase in attendance we want to believe it's all because of the intimate relationship individuals have developed with God and that increases our joy. I want to thank the whole church for being alert and supportive. However much we don't see others on Google meet have no doubt that they are behind the curtain seeking God seriously. We live in critical times as a church where we need to function from the word of God and prayers not because it's an obligation but because there is joy, satisfaction in having a fellowship with our Father. I encourage us to continue seeking God in all our ways, trust has faith in Him.</p>
+										</p>
 									</div>
 								</div>
 							</li>
