@@ -9,7 +9,7 @@ include('includes/header.php'); ?>
 				<div class="col-md-12">
 					<h1>Contact Us</h1>
 					<div class="clearfix"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aliquam ac egestas velit</p>
+					<p>Always feel free to talk us</p>
 				</div>
 			</div>
 		</div>
@@ -20,7 +20,7 @@ include('includes/header.php'); ?>
 				<div class="col-md-12">
 					<ul>
 						<li>
-							<a href="index.php">Home <i class="fas fa-arrow-right"></i></a>
+							<a href="index.php">Home  <i class="fas fa-arrow-right"></i></a>
 						</li>
 						<li class="active">Contact Us</li>
 					</ul>
@@ -42,27 +42,34 @@ include('includes/header.php'); ?>
 							<div class="col-md-4">
 								<div class="church-contact-info">
 									<h2 class="church-section-heading">[ Get In Touch ]</h2>
-									<p>Sed vulputate elementum aliquam. Nun vel eff icitur ante. Ut gravida nulla id ornare sodales. Aenean aliquam mauris.</p>
+										<p>
+											You can reach us via the following addresses and social media platforms
+										</p>
 									<ul class="church-contact-info-list">
 										<li>
 											<i class="fas fa-phone-volume"></i>
 											<h5>Call Us At</h5>
-											<span>+00 123 45 678</span>
+											<span>
+												Safaricom: <a href="tel:+254743304418">0743-304-418</a><br>
+												Airtel: <a href="tel:+254753271113">0753-271-113</a>
+											</span>
 										</li>
 										<li>
 											<i class="fas fa-envelope"></i>
 											<h5>Mail Us At</h5>
-											<a href="mailto: abc@example.com">pwanicu@gmail.com</a>
+											<a href="mailto: officialpwanicu@gmail.com">
+												officialpwanicu@gmail.com
+											</a>
 										</li>
 										<li>
 											<i class="fas fa-print"></i>
 											<h5>Fax Us At</h5>
-											<span>00112 233 456 - 9987 654 3321 </span>
+											<span>Coming soon </span>
 										</li>
 										<li>
 											<i class="fas fa-home"></i>
-											<h5>Find Us At</h5>
-											<span>375 Retreat Avenue West Enfield,493</span>
+											<h5>PHYSICAL ADDRESS</h5>
+											<span>P.O. BOX 195-80108<br/>Kilifi </span>
 										</li>
 									</ul>
 								</div>
@@ -91,6 +98,42 @@ include('includes/header.php'); ?>
 								</div>
 							</div>
 						</div>
+
+
+			<!-- Social Media -->
+						<div class="row social-media">
+							<div class="col-xs-2">
+								<a href="#">
+									<i class="fab fa-whatsapp-square"></i>
+								</a>
+							</div>
+							<div class="col-xs-2">
+								<a href="#">
+									<i class="fab fa-facebook-square"></i>
+								</a>
+							</div>
+							<div class="col-xs-2">
+								<a href="#">
+									<i class="fab fa-youtube-square"></i>
+								</a>
+							</div>
+							<div class="col-xs-2">
+								<a href="#">
+									<i class="fab fa-twitter-square"></i>
+								</a>
+							</div>
+							<div class="col-xs-2">
+								<a href="#">
+									<i class="fab fa-instagram-square"></i>
+								</a>
+							</div>
+							<div class="col-xs-2">
+								<a href="#">
+									<i class="fab fa-google-plus-g"></i>
+								</a>
+							</div>
+						</div>
+
 					</div>
 				</div>
 			</div>
