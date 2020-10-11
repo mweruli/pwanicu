@@ -43,7 +43,7 @@
                     <div class="church-navigation">
 
                         <a href="#menu" class="menu-link active"><span></span></a>
-                        <nav id="menu" class="menu navbar navbar-default">
+                        <nav id="menu" class="menu navbar navbar-default ">
                             <ul class="level-1 navbar-nav">
                                 <li class="active"><a href="index.php">Home</a></li>
                                 <li><a href="#">About Us</a><span class="has-subnav"><i class="fa fa-angle-down"></i></span>
