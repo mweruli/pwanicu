@@ -4,7 +4,7 @@ include('includes/header.php'); ?>
 <div class="church-banner">
     <div class="church-banner-layer">
         <span class="church-banner-transparent"></span>
-        <img src="extra-images/banner-1.jpg" alt="">
+        <img src="extra-images/pu/sermons.jpg" alt="">
         <div class="church-banner-caption">
             <div class="container">
                 <div class="row">
@@ -26,7 +26,29 @@ include('includes/header.php'); ?>
     </div>
     <div class="church-banner-layer">
         <span class="church-banner-transparent"></span>
-        <img src="extra-images/banner-1.jpg" alt="">
+        <img src="extra-images/pu/about - Copy.jpg" alt="">
+        <div class="church-banner-caption">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="church-banner-text">
+                            <h1>And we know that in all things <a href="sermons.php"> God works for the good</a> of those who love him, who have been called according to his purpose.</h1>
+                            <span><i class="fas fa-arrow-right"></i>Romans 8:28</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="church-banner-description">
+            <img src="images/title-img1.png" alt="">
+            <h2>We're excited about God and the good things He's doing on earth, and love that we get to be part of it!</h2>
+            <h6>“Spiritual maturity is for everyone - no matter what your age is.”</h6>
+            <a href="error.php" class="church-btn">Share This</a>
+        </div>
+    </div>
+<div class="church-banner-layer">
+        <span class="church-banner-transparent"></span>
+        <img src="extra-images/pu/sem.jpg" alt="">
         <div class="church-banner-caption">
             <div class="container">
                 <div class="row">
@@ -66,19 +88,19 @@ include('includes/header.php'); ?>
                         <ul class="row">
                             <li class="col-md-4">
                                 <figure>
-                                    <a href="about-us.php"><img src="extra-images/about-service-img1.jpg" alt="About Pwani University CU"></a>
+                                    <a href="about-us.php"><img src="extra-images/pu/about.jpg" alt="About Pwani University CU"></a>
                                 </figure>
                                 <a href="about-us.php" class="church-simple-btn">ABOUT US</a>
                             </li>
                             <li class="col-md-4">
                                 <figure>
-                                    <a href="sermons.php"><img src="extra-images/about-service-img2.jpg" alt=""></a>
+                                    <a href="sermons.php"><img src="extra-images/pu/sem.jpg" alt=""></a>
                                 </figure>
                                 <a href="sermons.php" class="church-simple-btn">SEM ACTIVITIES</a>
                             </li>
                             <li class="col-md-4">
                                 <figure>
-                                    <a href="sermons.php"><img src="extra-images/about-service-img3.jpg" alt=""></a>
+                                    <a href="sermons.php"><img src="extra-images/pu/sermons.jpg" alt=""></a>
                                 </figure>
                                 <a href="sermons.php" class="church-simple-btn">SERMONS</a>
                             </li>
@@ -144,7 +166,7 @@ include('includes/header.php'); ?>
                                 </div>
                                 <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                     <div class="panel-body">
-                                        <p>Our doctrinal basis as the Christian body is the fundamental truth about Christianity and we believe in the unity of the Father, the Son, and the Holy Spirit in the Godhead, the Sovereignty of God in the creation, revelation, redemption, and final judgment and the divine inspiration and entire truthfulness of the Holy Scriptures originally given and its supreme authority in all matters of faith and conduct.</p>
+                                        <p>Our doctrinal basis as the Christian body is the fundamental truth about Christianity and we believe in the unity of the <strong> Father, the Son, and the Holy Spirit.</strong></p>
                                     </div>
                                 </div>
                             </div>
@@ -182,7 +204,7 @@ include('includes/header.php'); ?>
             <div class="row">
                 <div class="col-md-12">
                     <div class="church-fancy-title">
-                        <h2>Church <span>Activities</span></h2>
+                        <h2>Church Activities</h2>
                         <span>What's happening in the Church this Semester?</span>
                     </div>
                 </div>
@@ -192,31 +214,31 @@ include('includes/header.php'); ?>
                         <ul class="row">
                             <li class="col-md-12">
                                 <figure>
-                                    <a href="event-detail.html"><img src="extra-images/upcoming-events-img1.jpg" alt=""></a>
+                                    <a href="event-detail.html"><img src="extra-images/pu/thanks.jpg" alt=""></a>
                                 </figure>
                                 <div class="church-upcoming-event-text">
-                                    <h6><a href="event-detail.html">Missions Intensive Training School</a></h6>
-                                    <time datetime="2008-02-14 20:00"><i class="far fa-calendar-alt"></i>May 16, 2017 - May 27, 2017</time>
+                                    <h6><a href="event-detail.html">Welcoming Freshers.</a></h6>
+                                    <time datetime="2008-02-14 20:00"><i class="far fa-calendar-alt"></i>Oct 28, 2020 - Oct 27, 2020</time>
                                     <time datetime="2008-02-14 20:00"><i class="fas fa-clock"></i>7:00pm - 8:30pm</time>
                                 </div>
                             </li>
                             <li class="col-md-12">
                                 <figure>
-                                    <a href="event-detail.html"><img src="extra-images/upcoming-events-img2.jpg" alt=""></a>
+                                    <a href="event-detail.html"><img src="extra-images/pu/about.jpg" alt=""></a>
                                 </figure>
                                 <div class="church-upcoming-event-text">
-                                    <h6><a href="event-detail.html">Love After Marriage 5-Day Intensive Care</a></h6>
-                                    <time datetime="2008-02-14 20:00"><i class="far fa-calendar-alt"></i>May 16, 2017 - May 27, 2017</time>
+                                    <h6><a href="event-detail.html">Thanks Giving day</a></h6>
+                                    <time datetime="2008-02-14 20:00"><i class="far fa-calendar-alt"></i>Nov 03, 2020 - Nov 04, 2020</time>
                                     <time datetime="2008-02-14 20:00"><i class="fas fa-clock"></i>7:00pm - 8:30pm</time>
                                 </div>
                             </li>
                             <li class="col-md-12">
                                 <figure>
-                                    <a href="event-detail.html"><img src="extra-images/upcoming-events-img3.jpg" alt=""></a>
+                                    <a href="event-detail.html"><img src="extra-images/pu/praise.jpg" alt=""></a>
                                 </figure>
                                 <div class="church-upcoming-event-text">
-                                    <h6><a href="event-detail.html">GCLI: Summer Intensive Language Classes</a></h6>
-                                    <time datetime="2008-02-14 20:00"><i class="far fa-calendar-alt"></i>May 16, 2017 - May 27, 2017</time>
+                                    <h6><a href="event-detail.html">Fourth Year Send Off</a></h6>
+                                    <time datetime="2008-02-14 20:00"><i class="far fa-calendar-alt"></i>Nov 16, 2020 - Nov 16, 2020</time>
                                     <time datetime="2008-02-14 20:00"><i class="fas fa-clock"></i>7:00pm - 8:30pm</time>
                                 </div>
                             </li>
@@ -421,16 +443,16 @@ include('includes/header.php'); ?>
             <div class="row">
                 <div class="col-md-12">
                     <div class="church-fancy-title">
-                        <h2>Church <span> Testimonials </span></h2>
-                        <p>What people say about the CU.</p>
+                        <h2>Church Testimonials</h2>
+                        <p>What people say about the Pwani CU.</p>
                     </div>
                     <div class="clearfix"></div>
                     <div class="church-testimonial">
                         <div class="church-testimonial-list">
-                            <div class="church-testimonial-list-layer"><span><img src="extra-images/testimonial-img3.jpg" alt=""></span></div>
-                            <div class="church-testimonial-list-layer"><span><img src="extra-images/testimonial-img1.jpg" alt=""></span></div>
-                            <div class="church-testimonial-list-layer"><span><img src="extra-images/testimonial-img2.jpg" alt=""></span></div>
-                            <div class="church-testimonial-list-layer"><span><img src="extra-images/testimonial-img1.jpg" alt=""></span></div>
+                            <div class="church-testimonial-list-layer"><span><img src="extra-images/pu/test.jpg" alt=""></span></div>
+                            <div class="church-testimonial-list-layer"><span><img src="extra-images/pu/testmonies.jpg" alt=""></span></div>
+                            <div class="church-testimonial-list-layer"><span><img src="extra-images/pu/fam.jpg" alt=""></span></div>
+                            <div class="church-testimonial-list-layer"><span><img src="extra-images/pu/sermons.jpg" alt=""></span></div>
                         </div>
                         <div class="church-testimonial-thumb">
                             <div class="church-testimonial-thumb-layer">

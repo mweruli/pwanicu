@@ -101,7 +101,7 @@ include('includes/header.php'); ?>
 
 
 			<!-- Social Media -->
-						<div class="row social-media">
+					<!--	<div class="row social-media">
 							<div class="col-xs-2">
 								<a href="#">
 									<i class="fab fa-whatsapp-square"></i>
@@ -132,7 +132,7 @@ include('includes/header.php'); ?>
 									<i class="fab fa-google-plus-g"></i>
 								</a>
 							</div>
-						</div>
+						</div>-->
 
 					</div>
 				</div>

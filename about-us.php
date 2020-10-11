@@ -40,14 +40,14 @@ include('includes/header.php');
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<figure class="church-about-thumb"><img src="extra-images/about-thumb-img.jpg" alt="">
+					<figure class="church-about-thumb"><img src="extra-images/pu/thanks.jpg" alt="">
 						<figcaption>
 							<div class="church-about-text">
 								<h2>“Engaging God's world through faith”</h2>
 								<p>Pwani University Christian Union is a body of Christian students from Pwani University-bound together by a common faith in the only God and joined together with the heavenly calling of Christ according to the Holy Scriptures. Our doctrinal basis as the Christian body is the fundamental truth about Christianity and we believe in the unity of the Father, the Son, and the Holy Spirit in the Godhead, the Sovereignty of God in the creation, revelation, redemption, and final judgment and the divine inspiration and entire truthfulness of the Holy Scriptures originally given and its supreme authority in all matters of faith and conduct. We engage in evangelism, open-air crusades, and outreach missions and ministries as a fulfillment of the great commission the main purpose of them all being able to reach as many believers as possible.</p>
 								<a href="index.php" class="church-btn">Join Our Events</a>
 							</div>
-							<img src="extra-images/about-thumb-img2.png" alt="">
+							<!-- <img src="extra-images/about-thumb-img2.png" alt=""> -->
 						</figcaption>
 					</figure>
 				</div>
@@ -161,7 +161,7 @@ include('includes/header.php');
 							<ul class="row">
 								<li class="col-md-4">
 									<div class="church-blog-grid-wrap">
-										<figure><a id="drives"><img src="extra-images/blog-grid-img1.jpg" alt=""><i class="fas fa-bullseye"></i></a>
+										<figure><a id="drives"><img src="extra-images/pu/.jpg" alt=""><i class="fas fa-bullseye"></i></a>
 											<figcaption class="church-time-date"><span></span> <small>Mission</small></figcaption>
 										</figure>
 										<div class="church-bloggrid-slidetext">

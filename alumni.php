@@ -62,13 +62,12 @@ include('includes/header.php');  ?>
                         <ul class="row">
                             <li class="col-md-12">
                                 <div class="church-cause-list-wrap">
-                                    <figure><a href="cause-detail.html"><img src="extra-images/cause-list-img1.jpg" alt=""><span>Person A</span></a></figure>
+                                    <figure><a href="alumni.php"><img src="extra-images/cause-list-img1.jpg" alt=""><span>Person A</span></a></figure>
                                     <div class="church-cause-list-text">
                                         <h2><a href="error.php">PERSON A NAME. </a></h2>
                                         <span><strong>SERVICE FROM:</strong> 2019 </span>
                                         <span class="church-color"><strong>SERVICE TO:</strong>2020</span>
-                                        <p>Fusce pulvinar tortor viverra aliquam semper. Cras in sapien ult rices, molestie sapien ac, sodales leo. Aenean ultricies tellus eget sem viv erra, eu venenatis ipsum congue. Vivamus male suada nunc nibh justo. Fusce pulvinar tortor viverra aliquam semper. Cras in sapien ult rices, molestie sapien ac, sodales leo. Aenean ultricies tellus eget sem viv erra, eu venenatis ipsum congue. Vivamus male suada nunc nibh justo.</p>
-                                       <!--  <a href="cause-detail.html" class="church-blog-readmore church-bgcolor">Donate Now</a> -->
+                                        <p>"When I became a believer in Jesus Christ, I was excited about what that meant for me...I mean, think about it! I had been saved from the penalty and guilt over past sins--who wouldn't want that?  And I was saved from the power of sin over me, so I no longer had to be trapped by the attitudes and actions that kept me in a state of disgust with myself, much less was displeasing God! I looked forward to the day when I would even be free from the presence of sin and evil! I was very good at determining what, in my new "walk," would be good for me, and what was not."</p>
                                     </div>
                                 </div>
                             </li>

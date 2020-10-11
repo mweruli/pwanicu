@@ -65,12 +65,13 @@
 
 										<p class="text-justify">The following are the primary positions on the Media Team. 
 											<ul>
-												<li> Projectionist: Responsible for preparing and/or projecting lyrics, presentations, videos, and other media for events and church services. EasyWorship software is used to integrate the various media into a schedule for projection. </li>
+												<li><strong> Projectionist:</strong> Responsible for preparing and/or projecting lyrics, presentations, videos, and other media for events and church services. EasyWorship software is used to integrate the various media into a schedule for projection. </li>
 												<li>Sound Operator: Responsible for the setup and live sound mixing for services, practices, and other church events.</li> 
 												
-												<li>Audio and Video Recording: Responsible for pre-mixing the audio and creating the recording for services and other events. Responsible for operating the video camera for recording the video as well as broadcasting the video to the Welcome Room. </li>
-											</ul>
-												<p>This person also operates the lights in the sanctuary. CD Production: Responsible for post-production of audio (and eventually video) recordings for duplication onto CDs. Anyone who has an ear for sound or is comfortable with computers and technology is welcome to join our team.</p>
+												<li><strong> Audio and Video Recording:</strong> Responsible for pre-mixing the audio and creating the recording for services and other events. Responsible for operating the video camera for recording the video as well as broadcasting the video to the Welcome Room. This person also operates the lights in the sanctuary. </li>
+										<li><strong> CD Production:</strong> Responsible for post-production of audio (and eventually video) recordings for duplication onto CDs. </li>
+										</ul>
+										<p class="text-justify mt-2">Anyone who has an ear for sound or is comfortable with computers and technology is welcome to join our team.</p>
 									</div>
 								</div>
 							</li>
