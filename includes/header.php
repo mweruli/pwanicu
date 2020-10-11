@@ -37,7 +37,7 @@
         <div class="container">
             <div class="row">
                 <aside class="col-md-3">
-                    <a href="index.php" class="logo"><img src="images/logo.png" alt=""></a>
+                    <a href="index.php" class="logo"><img src="extra-images/pu/logo.jpg" alt="CU Logo"></a>
                 </aside>
                 <aside class="col-md-9">
                     <div class="church-navigation">

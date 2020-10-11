@@ -1,4 +1,4 @@
-<?php $pageTitle = "Alumni";
+<?php $pageTitle = "Benson Mwangi";
 include('includes/header.php');  ?>
 
 <div class="church-subheader">
@@ -9,7 +9,7 @@ include('includes/header.php');  ?>
                 <div class="col-md-12">
                     <h1>Pwani CU Alumni</h1>
                     <div class="clearfix"></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipi scing elit. Aliquam ac egestas velit</p>
+                    <p>Meet our Alumni</p>
                 </div>
             </div>
         </div>
@@ -19,11 +19,11 @@ include('includes/header.php');  ?>
             <div class="row">
                 <div class="col-md-12">
                     <ul>
-						<li>
-							<a href="index.php">Home <i class="fas fa-arrow-right"></i></a>
-						</li>
-						<li class="active">Pwani CU Alumni</li>
-					</ul>
+                        <li>
+                            <a href="index.php">Home <i class="fas fa-arrow-right"></i></a>
+                        </li>
+                        <li class="active">Pwani CU Alumni</li>
+                    </ul>
                 </div>
             </div>
         </div>
@@ -40,7 +40,7 @@ include('includes/header.php');  ?>
                 <aside class="col-md-3">
 
 
-                    <?php include('includes/alumni-list.php'); ?>
+                  <?php include('includes/alumni-list.php');?>
 
                 </aside>
 
@@ -49,9 +49,9 @@ include('includes/header.php');  ?>
                         <ul class="row">
                             <li class="col-md-12">
                                 <div class="church-cause-list-wrap">
-                                    <figure><a href="alumni.php"><img src="extra-images/pu/faith-mucila.jpg" alt=""><span>FAITH MUCILA</span></a></figure>
+                                    <figure><a href="alumni.php"><img src="extra-images/pu/behn-mwalimu.JPG" alt=""><span>BENSON MWANGI</span></a></figure>
                                     <div class="church-cause-list-text">
-                                        <h2><a href="error.php">FAITH MUCILA</a></h2>
+                                        <h2><a href="error.php">BENSON MWANGI</a></h2>
                                         <span><strong>SERVICE FROM:</strong> 2019 </span>
                                         <span class="church-color"><strong>SERVICE TO:</strong>2020</span>
                                         <p>"When I became a believer in Jesus Christ, I was excited about what that meant for me...I mean, think about it! I had been saved from the penalty and guilt over past sins--who wouldn't want that?"</p>

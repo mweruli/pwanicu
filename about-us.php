@@ -55,7 +55,7 @@ include('includes/header.php');
 		</div>
 	</div>
 
-
+<!-- Current Leader ship -->
 	<div class="church-main-section church-team-gridfull">
 		<div class="container">
 			<div class="row">
@@ -148,6 +148,59 @@ include('includes/header.php');
 			</div>
 		</div>
 	</div>
+
+<!-- Patrons -->
+<div class="church-main-content">
+	<div class="church-main-section">
+		<div class="container">
+			<div class="row">
+				<div class="church-fancy-title">
+					<h2 class="text-center text-capitalize mb-5">[ Meet our Patron ]</h2>
+				</div>
+				<div class="col-md-12">
+					<div class="church-team-detail">
+						<div class="churuch-team-wrap">
+							<div class="row">
+								<div class="col-md-4">
+									<figure class="churuch-team-thumb"><img src="extra-images/pu/cu-patron.JPG" alt="Dr. Ndiso"></figure>
+								</div>
+								<div class="col-md-8">
+									<div class="churuch-team-text">
+										<h2>Dr. Ndiso</h2>
+										<ul class="churuch-team-social">
+											<li><a href="https://www.facebook.com/" class="fa fa-facebook"></a></li>
+											<li><a href="https://twitter.com/login?lang=en" class="fa fa-twitter"></a>
+											</li>
+											<li><a href="https://www.pinterest.com/login/"
+													class="fa fa-pinterest-p"></a></li>
+											<li><a href="https://plus.google.com/" class="fa fa-google-plus"></a></li>
+										</ul>
+										<span>Graphic Designer</span>
+										<strong>Fusce pulvinar tortor viverra aliquam semper. Cras in sapien ultrices,
+											molestie sapien ac, sodales leo. Aenean ultricies tellus eget sem
+											viverra,</strong>
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac egestas
+											velit. Curabitur pellentesque nisl eu nisl malesuada suscipit. Sed aliquet
+											diam sed mauris dictum rutrum. Etiam facilisis sit amet purus ac dignissim.
+											Pellentesque ex felis, fermentum vitae erat vitae, fermentum luctus
+											risus.Nulla blandit ornare magna nec tristique. Suspendisse auctor ligula
+											sit amet libero vulputate lacinia.</p>
+										<p>Sed vulputate elementum aliquam. Nunc vel efficitur ante. Ut gravida nulla id
+											ornare sodales. Aenean aliquam mauris purus, eget mollis lectus sagittis
+											sed. Cras varius est vel massa ultricies, ac rutrum urna hendrerit. Donec eu
+											porta velit. Nam at urna eu libero suscipit semper. Curabitur sit amet
+											sapien ut metus viverra varius ut porta metus. </p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
 	<div class="church-main-content">
 		<div class="church-fancy-title">
 			<h2>[ What Drives Us ]</h2>
