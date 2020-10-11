@@ -9,7 +9,7 @@
         <li><a href="karani.php">Evans Karani</a></li>
         <li><a href="alumni.php">Alizaphan Maina</a></li>
         <li><a href="behn-mwalimu.php">Benson Mwangi</a></li>
-        <li><a href="winnie-wangari.php">Winnie Wangari</a></li>
+        <li><a href="alumni.php">Winnie Wangari</a></li>
         <li><a href="alumni.php">Obong'o</a></li>
     </ul>
 </div>
