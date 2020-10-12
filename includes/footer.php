@@ -53,12 +53,12 @@
                                 </ul>
                         </aside>
                     </div>
-                    <div class="row col-ms-12 widget_service_note">
+                  <!--  <div class="row col-ms-12 widget_service_note">
                     	<div >
                                 <p class="text-center text-capitalize">Sunday School available every second service.</p>
                                 <span></span>
                             </div>
-                    </div>
+                    </div>-->
                 </div>
             </div>
 

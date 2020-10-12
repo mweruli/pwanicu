@@ -53,7 +53,7 @@
 						<ul class="row">
 							<li class="col-md-12">
 								<div class="church-blog-large-wrap">
-									<figure><a href="#"><img src="extra-images/pu/mission.jpg" alt=""><i class="fab fa-algolia"></i></a>
+									<figure><a href="#"><img src="extra-images/pu/mission.JPG" alt=""><i class="fab fa-algolia"></i></a>
 										<figcaption class="church-time-date"><small>Mission Deparment</small></figcaption>
 									</figure>
 									<div class="church-blog-large-text">

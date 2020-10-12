@@ -51,7 +51,7 @@
 						<ul class="row">
 							<li class="col-md-12">
 								<div class="church-blog-large-wrap">
-									<figure><a href="blog-detail.html"><img src="extra-images/pu/prayer.jpg" alt=""><i class="fab fa-algolia"></i></a>
+									<figure><a href="blog-detail.html"><img src="extra-images/pu/prayer.JPG" alt=""><i class="fab fa-algolia"></i></a>
 										<figcaption class="church-time-date"><small>Prayer Deparment</small></figcaption>
 									</figure>
 									<div class="church-blog-large-text">

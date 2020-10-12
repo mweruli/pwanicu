@@ -46,7 +46,7 @@
                         <nav id="menu" class="menu navbar navbar-default ">
                             <ul class="level-1 navbar-nav">
                                 <li class="active"><a href="index.php">Home</a></li>
-                                <li><a href="#">About Us</a><span class="has-subnav"><i class="fa fa-angle-down"></i></span>
+                                <li><a href="about-us.php">About Us</a><span class="has-subnav"><i class="fa fa-angle-down"></i></span>
                                     <ul class="sub-menu level-2">
                                         <li><a href="about-us.php">About CU</a></li>
                                         <li><a href="alumni.php">Alumni</a></li>

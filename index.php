@@ -428,6 +428,7 @@ include('includes/header.php'); ?>
                         <div class="row">
                             <a class="church-simple-btn">Friday 8:00pm LTN</a>
                             <a class="church-simple-btn">Sunday 6:30am</a>
+                            <a class="church-simple-btn">Sunday School 8:30am</a>
                             <a class="church-simple-btn">Sunday 8:30am</a>
                             <a class="church-simple-btn">Sunday 11:00am</a>
                         </div>
@@ -458,7 +459,7 @@ include('includes/header.php'); ?>
                             <div class="church-testimonial-thumb-layer">
                                 <div class="church-testimonial-text">
                                     <p>I love Pwani CU & everything about it. The church family has always been warm and loving and welcomed my family with open arms. </p>
-                                    <a href="alumni.php">- Jessica J.</a>
+                                    <a href="alumni.php">- Alex. A.</a>
                                 </div>
                             </div>
                             <div class="church-testimonial-thumb-layer">
@@ -470,7 +471,7 @@ include('includes/header.php'); ?>
                             <div class="church-testimonial-thumb-layer">
                                 <div class="church-testimonial-text">
                                     <p>The church family has always been warm. I love PWANI CU & everything about it and loving and welcomed my family with open arms. </p>
-                                    <a href="alumni.php">- Jessica J.</a>
+                                    <a href="alumni.php">- Watila J.</a>
                                 </div>
                             </div>
                         </div>
