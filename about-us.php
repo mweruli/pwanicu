@@ -209,7 +209,7 @@ include('includes/header.php');
 							<ul class="row">
 								<li class="col-md-4">
 									<div class="church-blog-grid-wrap">
-										<figure><a id="drives"><img src="extra-images/pu/ict.jpg" alt=""><i class="fas fa-bullseye"></i></a>
+										<figure><a id="drives"><img src="extra-images/pu/ict.JPG" alt=""><i class="fas fa-bullseye"></i></a>
 											<figcaption class="church-time-date"><span></span> <small>Mission</small></figcaption>
 										</figure>
 										<div class="church-bloggrid-slidetext">
@@ -221,7 +221,7 @@ include('includes/header.php');
 								</li>
 								<li class="col-md-4">
 									<div class="church-blog-grid-wrap">
-										<figure><a id="drives"><img src="extra-images/pu/creative.jpg" alt=""><i class="fas fa-eye"></i></a>
+										<figure><a id="drives"><img src="extra-images/pu/creative.JPG" alt=""><i class="fas fa-eye"></i></a>
 											<figcaption class="church-time-date"><span></span> <small>Vision</small></figcaption>
 										</figure>
 										<div class="church-bloggrid-slidetext">
@@ -233,7 +233,7 @@ include('includes/header.php');
 								</li>
 								<li class="col-md-4">
 									<div class="church-blog-grid-wrap">
-										<figure><a id="drives"><img src="extra-images/pu/ict.jpg" alt=""><i class="fas fa-cross"></i></a>
+										<figure><a id="drives"><img src="extra-images/pu/ict.JPG" alt=""><i class="fas fa-cross"></i></a>
 											<figcaption class="church-time-date"><span></span> <small>Our Belief</small></figcaption>
 										</figure>
 										<div class="church-bloggrid-slidetext">
