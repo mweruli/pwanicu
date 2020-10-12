@@ -68,7 +68,7 @@ include('includes/header.php');
 						<ul class="row">
 							<li class="col-md-3">
 								<div class="church-team-grid-wrap">
-									<figure><a href="team-detail.html"><img src="extra-images/team-grid-img1.jpg" alt=""></a>
+									<figure><a href="team-detail.html"><img src="extra-images/pu/walter.jpg" alt="CHAIRPERSON"></a>
 										<figcaption>
 											<ul class="church-team-social">
 												<li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
@@ -79,15 +79,15 @@ include('includes/header.php');
 										</figcaption>
 									</figure>
 									<div class="church-team-grid-text">
-										<h2><a href="team-detail.html">David Jorden</a></h2>
+										<h2><a href="team-detail.html">WALTER WANJALA</a></h2>
 										<span>CHAIR PERSON</span>
-										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales.</p>
+										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales. Ut gri nulla id ornare sodales. </p>
 									</div>
 								</div>
 							</li>
 							<li class="col-md-3">
 								<div class="church-team-grid-wrap">
-									<figure><a href="#"><img src="extra-images/team-grid-img4.jpg" alt=""></a>
+									<figure><a href="#"><img src="extra-images/pu/alex.png" alt="TREASURER"></a>
 										<figcaption>
 											<ul class="church-team-social">
 												<li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
@@ -98,46 +98,46 @@ include('includes/header.php');
 										</figcaption>
 									</figure>
 									<div class="church-team-grid-text">
-										<h2><a href="#">Marlon Smith</a></h2>
-										<span>VICE CHAIRPERSON</span>
-										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales.</p>
-									</div>
-								</div>
-							</li>
-							<li class="col-md-3">
-								<div class="church-team-grid-wrap">
-									<figure><a href="team-detail.html"><img src="extra-images/team-grid-img3.jpg" alt=""></a>
-										<figcaption>
-											<ul class="church-team-social">
-												<li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
-												<li><a href="https://twitter.com/login?lang=en" class="fa fa-twitter-square"></a></li>
-												<li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
-												<li><a href="https://www.youtube.com/signin" class="fa fa-youtube-square"></a></li>
-											</ul>
-										</figcaption>
-									</figure>
-									<div class="church-team-grid-text">
-										<h2><a href="#">Sarena Doe</a></h2>
-										<span>SECRETARY</span>
-										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales.</p>
-									</div>
-								</div>
-							</li>
-							<li class="col-md-3">
-								<div class="church-team-grid-wrap">
-									<figure><a href="#"><img src="extra-images/team-grid-img2.jpg" alt=""></a>
-										<figcaption>
-											<ul class="church-team-social">
-												<li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
-												<li><a href="https://twitter.com/login?lang=en" class="fa fa-twitter-square"></a></li>
-												<li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
-												<li><a href="https://www.youtube.com/signin" class="fa fa-youtube-square"></a></li>
-											</ul>
-										</figcaption>
-									</figure>
-									<div class="church-team-grid-text">
-										<h2><a href="#">Merry Stewart</a></h2>
+										<h2><a href="#">ALEX AKEYO</a></h2>
 										<span>TREASURER</span>
+										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales.</p>
+									</div>
+								</div>
+							</li>
+							<li class="col-md-3">
+								<div class="church-team-grid-wrap">
+									<figure><a href="team-detail.html"><img src="extra-images/pu/vickie.jpg" alt="ICT CO-ORDINATOR"></a>
+										<figcaption>
+											<ul class="church-team-social">
+												<li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
+												<li><a href="https://twitter.com/login?lang=en" class="fa fa-twitter-square"></a></li>
+												<li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
+												<li><a href="https://www.youtube.com/signin" class="fa fa-youtube-square"></a></li>
+											</ul>
+										</figcaption>
+									</figure>
+									<div class="church-team-grid-text">
+										<h2><a href="#">VICTORIA WANGARI</a></h2>
+										<span>ICT CO-ORDINATOR</span>
+										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales.</p>
+									</div>
+								</div>
+							</li>
+							<li class="col-md-3">
+								<div class="church-team-grid-wrap">
+									<figure><a href="#"><img src="extra-images/pu/mercy.jpg" alt="DISCIPLESHIP CO-ORDINATOR"></a>
+										<figcaption>
+											<ul class="church-team-social">
+												<li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
+												<li><a href="https://twitter.com/login?lang=en" class="fa fa-twitter-square"></a></li>
+												<li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
+												<li><a href="https://www.youtube.com/signin" class="fa fa-youtube-square"></a></li>
+											</ul>
+										</figcaption>
+									</figure>
+									<div class="church-team-grid-text">
+										<h2><a href="#">MERCY KIMONYI</a></h2>
+										<span>DISCIPLESHIP CO-ORDINATOR</span>
 										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales.</p>
 									</div>
 								</div>
@@ -175,21 +175,16 @@ include('includes/header.php');
 													class="fa fa-pinterest-p"></a></li>
 											<li><a href="https://plus.google.com/" class="fa fa-google-plus"></a></li>
 										</ul>
-										<span>Graphic Designer</span>
+										<span>CU Patron</span>
 										<strong>Fusce pulvinar tortor viverra aliquam semper. Cras in sapien ultrices,
 											molestie sapien ac, sodales leo. Aenean ultricies tellus eget sem
 											viverra,</strong>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac egestas
+										<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac egestas
 											velit. Curabitur pellentesque nisl eu nisl malesuada suscipit. Sed aliquet
 											diam sed mauris dictum rutrum. Etiam facilisis sit amet purus ac dignissim.
 											Pellentesque ex felis, fermentum vitae erat vitae, fermentum luctus
 											risus.Nulla blandit ornare magna nec tristique. Suspendisse auctor ligula
 											sit amet libero vulputate lacinia.</p>
-										<p>Sed vulputate elementum aliquam. Nunc vel efficitur ante. Ut gravida nulla id
-											ornare sodales. Aenean aliquam mauris purus, eget mollis lectus sagittis
-											sed. Cras varius est vel massa ultricies, ac rutrum urna hendrerit. Donec eu
-											porta velit. Nam at urna eu libero suscipit semper. Curabitur sit amet
-											sapien ut metus viverra varius ut porta metus. </p>
 									</div>
 								</div>
 							</div>
@@ -214,7 +209,6 @@ include('includes/header.php');
 							<ul class="row">
 								<li class="col-md-4">
 									<div class="church-blog-grid-wrap">
-										<figure><a id="drives"><img src="extra-images/pu/ict.JPG" alt="Mission"><i class="fas fa-bullseye"></i></a>
 										<figure><a id="drives"><img src="extra-images/pu/ict.jpg" alt=""><i class="fas fa-bullseye"></i></a>
 											<figcaption class="church-time-date"><span></span> <small>Mission</small></figcaption>
 										</figure>
@@ -227,7 +221,6 @@ include('includes/header.php');
 								</li>
 								<li class="col-md-4">
 									<div class="church-blog-grid-wrap">
-										<figure><a id="drives"><img src="extra-images/pu/creative.JPG" alt="Vision"><i class="fas fa-eye"></i></a>
 										<figure><a id="drives"><img src="extra-images/pu/creative.jpg" alt=""><i class="fas fa-eye"></i></a>
 											<figcaption class="church-time-date"><span></span> <small>Vision</small></figcaption>
 										</figure>
@@ -240,7 +233,6 @@ include('includes/header.php');
 								</li>
 								<li class="col-md-4">
 									<div class="church-blog-grid-wrap">
-										<figure><a id="drives"><img src="extra-images/pu/ict.JPG" alt="Our Beliefe"><i class="fas fa-cross"></i></a>
 										<figure><a id="drives"><img src="extra-images/pu/ict.jpg" alt=""><i class="fas fa-cross"></i></a>
 											<figcaption class="church-time-date"><span></span> <small>Our Belief</small></figcaption>
 										</figure>
