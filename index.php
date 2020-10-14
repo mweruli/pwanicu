@@ -406,11 +406,12 @@ include('includes/header.php'); ?>
                     <div class="church-meet-location">
                         <h2>Meet our <span>Departments</span> </h2>
                         <div class="church-location-city">
-                            <a href="ict_depertment.php" class="church-simple-btn ">ICT Deparment</a>
-                            <a href="praise&worship.php" class="church-simple-btn">Worship Deparment</a>
-                            <a href="prayer_department.php" class="church-simple-btn">Prayer Deparment</a>
-                            <a href="mission_department.php" class="church-simple-btn">Mission Deparment</a>
-                            <a href="welfare-department.php" class="church-simple-btn">Welfare Deparment</a>
+                            <a href="ict_depertment.php" class="church-simple-btn ">ICT Department</a>
+                            <a href="praise&worship.php" class="church-simple-btn">Worship Department</a>
+                            <a href="prayer_department.php" class="church-simple-btn">Prayer Department</a>
+                            <a href="mission_department.php" class="church-simple-btn">Mission Department</a>
+                            <a href="welfare-department.php" class="church-simple-btn">Welfare Department</a>
+                            <a href="discipleship-deparment.php" class="church-simple-btn">Discipleship </a>
                             <a href="creative_ministry.php" class="church-simple-btn">Creative Ministry</a>
                         </div>
                     </div>

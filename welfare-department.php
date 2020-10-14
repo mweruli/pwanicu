@@ -6,7 +6,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1>Choir Department</h1>
+					<h1>Welfare Department</h1>
 					<div class="clearfix"></div>
 					<p class="text-uppercase text-monocase">
 						DEPARTMENT OVERVIEW

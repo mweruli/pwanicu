@@ -9,7 +9,8 @@ include('includes/header.php');  ?>
 				<div class="col-md-12">
 					<h1>Sermons</h1>
 					<div class="clearfix"></div>
-					<p>A sermon is an oration by a member of the clergy. Sermons address a Biblical, theological, religious, or moral topic, usually expounding on a type of belief, law or behavior within both past and present contexts.</p>
+					<p>A sermon is an oration by a member of the clergy. </p>
+					<!-- <p>Sermons address a Biblical, theological, religious, or moral topic, usually expounding on a type of belief, law or behavior within both past and present contexts.</p> -->
 				</div>
 			</div>
 		</div>
@@ -47,18 +48,7 @@ include('includes/header.php');  ?>
 </div> -->
 
 
-					<div class="widget widget_cetagories">
-						<h2 class="church-widget-heading">[ Cetagories ]</h2>
-						<ul>
-							<li><a href="sermons.php">Teams</a></li>
-							<li><a href="sermons.php">Charity</a></li>
-							<li><a href="sermons.php">Donation</a></li>
-							<li><a href="sermons.php">Blogs</a></li>
-							<li><a href="sermons.php">Sermons</a></li>
-							<li><a href="sermons.php">Events</a></li>
-							<li><a href="https://www.youtube.com/channel/UCgrGRvAdJY16AbS0A2TyeaQ/videos" target="_blank">More Sermons</a> </li>
-						</ul>
-					</div>
+			<?php include('includes/sermon-categories.php'); ?>
 
 
 					<div class="widget widget_popular_news">
@@ -190,16 +180,16 @@ include('includes/header.php');  ?>
 								<div class="church-sermon-grid-text">
 									<h2><a href="sermons.php">Curabitur Sit Amet Sapien ut Metus</a></h2>
 									<ul class="church-cause-option">
-										<li><i class="icon church-user-silhouette"></i><a href="sermons.php">Elena Jameson</a></li>
-										<li><i class="icon church-calendar"></i><time datetime="2008-02-14 20:00">May 16, 2016 @ 08:00</time></li>
-										<li><i class="icon church-note"></i><a href="sermons.php">Education,</a><a href="sermons.php">Learning,</a><a href="sermons.php">School,</a><a href="sermons.php">Water</a></li>
+										<li><i class="fas fa-user-tie"></i><a href="sermons.php">Elena Jameson</a></li>
+										<li><i class="fas fa-calendar-alt"></i><time datetime="2008-02-14 20:00">May 16, 2016 @ 08:00</time></li>
+										<li><i class="fas fa-clipboard"></i><a href="sermons.php">Education,</a><a href="sermons.php">Learning,</a><a href="sermons.php">School,</a><a href="sermons.php">Water</a></li>
 									</ul>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac egestas velit</p>
 									<ul class="church-sermon-social">
-										<li><a href="sermons.php" class="icon church-play-right-arrow-symbol-in-circular-multimedia-button" data-toggle="tooltip" title="Play"></a></li>
-										<li><a href="sermons.php" class="icon church-download-button" data-toggle="tooltip" title="Download"></a></li>
-										<li><a href="sermons.php" class="icon church-pencil-striped-symbol-for-interface-edit-buttons" data-toggle="tooltip" title="Like"></a></li>
-										<li><a href="sermons.php" class="icon church-share" data-toggle="tooltip" title="Share"></a></li>
+										<li><a href="sermons.php" class="fas fa-play" data-toggle="tooltip" title="Play"></a></li>
+										<li><a href="sermons.php" class="fas fa-download" data-toggle="tooltip" title="Download"></a></li>
+										<li><a href="sermons.php" class="fas fa-thumbs-up" data-toggle="tooltip" title="Like"></a></li>
+										<li><a href="sermons.php" class="fas fa-share-alt-square" data-toggle="tooltip" title="Share"></a></li>
 									</ul>
 								</div>
 							</li>
@@ -208,16 +198,16 @@ include('includes/header.php');  ?>
 								<div class="church-sermon-grid-text">
 									<h2><a href="sermons.php">Donec eu Porta Velit Nam at Urn Eu</a></h2>
 									<ul class="church-cause-option">
-										<li><i class="icon church-user-silhouette"></i><a href="sermons.php">Elena Jameson</a></li>
-										<li><i class="icon church-calendar"></i><time datetime="2008-02-14 20:00">May 16, 2016 @ 08:00</time></li>
-										<li><i class="icon church-note"></i><a href="sermons.php">Education,</a><a href="sermons.php">Learning,</a><a href="sermons.php">School,</a><a href="sermons.php">Water</a></li>
+										<li><i class="fas fa-user-tie"></i><a href="sermons.php">Elena Jameson</a></li>
+										<li><i class="fas fa-calendar-alt"></i><time datetime="2008-02-14 20:00">May 16, 2016 @ 08:00</time></li>
+										<li><i class="fas fa-clipboard"></i><a href="sermons.php">Education,</a><a href="sermons.php">Learning,</a><a href="sermons.php">School,</a><a href="sermons.php">Water</a></li>
 									</ul>
 									<p>Aliquam ac egestas velit. Curabitur pellentes que nisl eu nisl malesuada suscipit. </p>
 									<ul class="church-sermon-social">
-										<li><a href="sermons.php" class="icon church-play-right-arrow-symbol-in-circular-multimedia-button" data-toggle="tooltip" title="Play"></a></li>
-										<li><a href="sermons.php" class="icon church-download-button" data-toggle="tooltip" title="Download"></a></li>
-										<li><a href="sermons.php" class="icon church-pencil-striped-symbol-for-interface-edit-buttons" data-toggle="tooltip" title="Like"></a></li>
-										<li><a href="sermons.php" class="icon church-share" data-toggle="tooltip" title="Share"></a></li>
+										<li><a href="sermons.php" class="fas fa-play" data-toggle="tooltip" title="Play"></a></li>
+										<li><a href="sermons.php" class="fas fa-download" data-toggle="tooltip" title="Download"></a></li>
+										<li><a href="sermons.php" class="fas fa-thumbs-up" data-toggle="tooltip" title="Like"></a></li>
+										<li><a href="sermons.php" class="fas fa-share-alt-square" data-toggle="tooltip" title="Share"></a></li>
 									</ul>
 								</div>
 							</li>
@@ -226,16 +216,16 @@ include('includes/header.php');  ?>
 								<div class="church-sermon-grid-text">
 									<h2><a href="sermons.php">Curabitur Sit Amet Sapien ut Metus</a></h2>
 									<ul class="church-cause-option">
-										<li><i class="icon church-user-silhouette"></i><a href="sermons.php">Elena Jameson</a></li>
-										<li><i class="icon church-calendar"></i><time datetime="2008-02-14 20:00">May 16, 2016 @ 08:00</time></li>
-										<li><i class="icon church-note"></i><a href="sermons.php">Education,</a><a href="sermons.php">Learning,</a><a href="sermons.php">School,</a><a href="sermons.php">Water</a></li>
+										<li><i class="fas fa-user-tie"></i><a href="sermons.php">Elena Jameson</a></li>
+										<li><i class="fas fa-calendar-alt"></i><time datetime="2008-02-14 20:00">May 16, 2016 @ 08:00</time></li>
+										<li><i class="fas fa-clipboard"></i><a href="sermons.php">Education,</a><a href="sermons.php">Learning,</a><a href="sermons.php">School,</a><a href="sermons.php">Water</a></li>
 									</ul>
 									<p>Sed aliquet diam sed mauris dictum rutrum tiam facilisis sit amet purus.</p>
 									<ul class="church-sermon-social">
-										<li><a href="sermons.php" class="icon church-play-right-arrow-symbol-in-circular-multimedia-button" data-toggle="tooltip" title="Play"></a></li>
-										<li><a href="sermons.php" class="icon church-download-button" data-toggle="tooltip" title="Download"></a></li>
-										<li><a href="sermons.php" class="icon church-pencil-striped-symbol-for-interface-edit-buttons" data-toggle="tooltip" title="Like"></a></li>
-										<li><a href="sermons.php" class="icon church-share" data-toggle="tooltip" title="Share"></a></li>
+										<li><a href="sermons.php" class="fas fa-play" data-toggle="tooltip" title="Play"></a></li>
+										<li><a href="sermons.php" class="fas fa-download" data-toggle="tooltip" title="Download"></a></li>
+										<li><a href="sermons.php" class="fas fa-thumbs-up" data-toggle="tooltip" title="Like"></a></li>
+										<li><a href="sermons.php" class="fas fa-share-alt-square" data-toggle="tooltip" title="Share"></a></li>
 									</ul>
 								</div>
 							</li>
@@ -244,16 +234,16 @@ include('includes/header.php');  ?>
 								<div class="church-sermon-grid-text">
 									<h2><a href="sermons.php">Suspendisse eu Mattis Diam et Iacul</a></h2>
 									<ul class="church-cause-option">
-										<li><i class="icon church-user-silhouette"></i><a href="sermons.php">Elena Jameson</a></li>
-										<li><i class="icon church-calendar"></i><time datetime="2008-02-14 20:00">May 16, 2016 @ 08:00</time></li>
-										<li><i class="icon church-note"></i><a href="sermons.php">Education,</a><a href="sermons.php">Learning,</a><a href="sermons.php">School,</a><a href="sermons.php">Water</a></li>
+										<li><i class="fas fa-user-tie"></i><a href="sermons.php">Elena Jameson</a></li>
+										<li><i class="fas fa-calendar-alt"></i><time datetime="2008-02-14 20:00">May 16, 2016 @ 08:00</time></li>
+										<li><i class="fas fa-clipboard"></i><a href="sermons.php">Education,</a><a href="sermons.php">Learning,</a><a href="sermons.php">School,</a><a href="sermons.php">Water</a></li>
 									</ul>
 									<p>Pellentesque ex felis, fermentum vitae erat vita fermentum luctus risus.</p>
 									<ul class="church-sermon-social">
-										<li><a href="sermons.php" class="icon church-play-right-arrow-symbol-in-circular-multimedia-button" data-toggle="tooltip" title="Play"></a></li>
-										<li><a href="sermons.php" class="icon church-download-button" data-toggle="tooltip" title="Download"></a></li>
-										<li><a href="sermons.php" class="icon church-pencil-striped-symbol-for-interface-edit-buttons" data-toggle="tooltip" title="Like"></a></li>
-										<li><a href="sermons.php" class="icon church-share" data-toggle="tooltip" title="Share"></a></li>
+										<li><a href="sermons.php" class="fas fa-play" data-toggle="tooltip" title="Play"></a></li>
+										<li><a href="sermons.php" class="fas fa-download" data-toggle="tooltip" title="Download"></a></li>
+										<li><a href="sermons.php" class="fas fa-thumbs-up" data-toggle="tooltip" title="Like"></a></li>
+										<li><a href="sermons.php" class="fas fa-share-alt-square" data-toggle="tooltip" title="Share"></a></li>
 									</ul>
 								</div>
 							</li>
@@ -262,16 +252,16 @@ include('includes/header.php');  ?>
 								<div class="church-sermon-grid-text">
 									<h2><a href="sermons.php">Vestibulum Tincidunt Sit Amet Dolo</a></h2>
 									<ul class="church-cause-option">
-										<li><i class="icon church-user-silhouette"></i><a href="sermons.php">Elena Jameson</a></li>
-										<li><i class="icon church-calendar"></i><time datetime="2008-02-14 20:00">May 16, 2016 @ 08:00</time></li>
-										<li><i class="icon church-note"></i><a href="sermons.php">Education,</a><a href="sermons.php">Learning,</a><a href="sermons.php">School,</a><a href="sermons.php">Water</a></li>
+										<li><i class="fas fa-user-tie"></i><a href="sermons.php">Elena Jameson</a></li>
+										<li><i class="fas fa-calendar-alt"></i><time datetime="2008-02-14 20:00">May 16, 2016 @ 08:00</time></li>
+										<li><i class="fas fa-clipboard"></i><a href="sermons.php">Education,</a><a href="sermons.php">Learning,</a><a href="sermons.php">School,</a><a href="sermons.php">Water</a></li>
 									</ul>
 									<p> Suspendisse auctor ligula sit amet libero vulputate lacinia. Viv- amus eros risus.</p>
 									<ul class="church-sermon-social">
-										<li><a href="sermons.php" class="icon church-play-right-arrow-symbol-in-circular-multimedia-button" data-toggle="tooltip" title="Play"></a></li>
-										<li><a href="sermons.php" class="icon church-download-button" data-toggle="tooltip" title="Download"></a></li>
-										<li><a href="sermons.php" class="icon church-pencil-striped-symbol-for-interface-edit-buttons" data-toggle="tooltip" title="Like"></a></li>
-										<li><a href="sermons.php" class="icon church-share" data-toggle="tooltip" title="Share"></a></li>
+										<li><a href="sermons.php" class="fas fa-play" data-toggle="tooltip" title="Play"></a></li>
+										<li><a href="sermons.php" class="fas fa-download" data-toggle="tooltip" title="Download"></a></li>
+										<li><a href="sermons.php" class="fas fa-thumbs-up" data-toggle="tooltip" title="Like"></a></li>
+										<li><a href="sermons.php" class="fas fa-share-alt-square" data-toggle="tooltip" title="Share"></a></li>
 									</ul>
 								</div>
 							</li>
