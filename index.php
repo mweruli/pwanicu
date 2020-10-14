@@ -407,10 +407,10 @@ include('includes/header.php'); ?>
                         <h2>Meet our <span>Departments</span> </h2>
                         <div class="church-location-city">
                             <a href="ict_depertment.php" class="church-simple-btn ">ICT Deparment</a>
-                            <a href="praise&worship.php" class="church-simple-btn">Praise & Worship</a>
+                            <a href="praise&worship.php" class="church-simple-btn">Worship Deparment</a>
                             <a href="prayer_department.php" class="church-simple-btn">Prayer Deparment</a>
                             <a href="mission_department.php" class="church-simple-btn">Mission Deparment</a>
-                            <a href="choir _deparment.php" class="church-simple-btn">Choir Deparment</a>
+                            <a href="welfare-department.php" class="church-simple-btn">Welfare Deparment</a>
                             <a href="creative_ministry.php" class="church-simple-btn">Creative Ministry</a>
                         </div>
                     </div>

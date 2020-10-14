@@ -35,8 +35,9 @@
                             <h2 class="church-footer-heading">[ Get in Touch ]</h2>
                                 <ul>
                                     <li>
-                                        <i class="fas fa-phone-alt"> </i>
-										<a href="tel: +254705610800">+254-705-610-800</a>
+                                        <i class="fas fa-phone-alt"> </i> 
+										<a href="tel:+254743304418">0743-304-418</a> / 
+                                        <a href="tel:+254753271113">0753-271-113</a>
 									</li>
 									<li>
 										<i class="fas fa-envelope-open-text"></i>
@@ -44,11 +45,11 @@
                                     </li>
                                     <li>
                                     	<i class="fab fa-twitter"></i>
-                                    	<a href="#"> Twitter</a>
+                                    	<a href="https://twitter.com/pwanicu" target="_blank"> Twitter</a>
                                     </li>
                                     <li>
                                     	<i class="fab fa-instagram"></i>
-                                    	<a href="#"> Intagram</a>
+                                    	<a href="https://www.instagram.com/?hl=en" target="_blank">Instagram</a>
                                     </li>
                                 </ul>
                         </aside>

@@ -66,9 +66,10 @@ include('includes/header.php');
 					</div>
 					<div class="church-team church-team-grid">
 						<ul class="row">
+							<!-- CHAIR PERSON -->
 							<li class="col-md-3">
 								<div class="church-team-grid-wrap">
-									<figure><a href="team-detail.html"><img src="extra-images/pu/walter.jpg" alt="CHAIRPERSON"></a>
+									<figure><a href="#"><img src="extra-images/pu/walter.jpg" alt="CHAIRPERSON"></a>
 										<figcaption>
 											<ul class="church-team-social">
 												<li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
@@ -79,12 +80,33 @@ include('includes/header.php');
 										</figcaption>
 									</figure>
 									<div class="church-team-grid-text">
-										<h2><a href="team-detail.html">WALTER WANJALA</a></h2>
+										<h2><a href="#">WALTER WANJALA</a></h2>
 										<span>CHAIR PERSON</span>
 										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales. Ut gri nulla id ornare sodales. </p>
 									</div>
 								</div>
 							</li>
+							<!-- VICE CHAIR PERSON -->
+							<li class="col-md-3">
+								<div class="church-team-grid-wrap">
+									<figure><a href="#"><img src="extra-images/pu/benson.png" alt="VICE CHAIRPERSON"></a>
+										<figcaption>
+											<ul class="church-team-social">
+												<li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
+												<li><a href="https://twitter.com/login?lang=en" class="fa fa-twitter-square"></a></li>
+												<li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
+												<li><a href="https://www.youtube.com/signin" class="fa fa-youtube-square"></a></li>
+											</ul>
+										</figcaption>
+									</figure>
+									<div class="church-team-grid-text"><br><br>
+										<h2><a href="#">BENSON NDABIRI</a></h2>
+										<span>VICE CHAIRPERSON</span>
+										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales.Ut gri <br></p>
+									</div>
+								</div>
+							</li>
+							<!-- TEASURER -->
 							<li class="col-md-3">
 								<div class="church-team-grid-wrap">
 									<figure><a href="#"><img src="extra-images/pu/alex.png" alt="TREASURER"></a>
@@ -104,9 +126,50 @@ include('includes/header.php');
 									</div>
 								</div>
 							</li>
+							<!-- SECRETARY -->
 							<li class="col-md-3">
 								<div class="church-team-grid-wrap">
-									<figure><a href="team-detail.html"><img src="extra-images/pu/vickie.jpg" alt="ICT CO-ORDINATOR"></a>
+									<figure><a href="#"><img src="extra-images/pu/ann-kiogora.png" alt="SECRETARY"></a>
+										<figcaption>
+											<ul class="church-team-social">
+												<li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
+												<li><a href="https://twitter.com/login?lang=en" class="fa fa-twitter-square"></a></li>
+												<li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
+												<li><a href="https://www.youtube.com/signin" class="fa fa-youtube-square"></a></li>
+											</ul>
+										</figcaption>
+									</figure>
+									<div class="church-team-grid-text">
+										<h2><a href="#">ANN KIOGORA</a></h2>
+										<span>SECRETARY </span>
+										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales.</p>
+									</div>
+								</div>
+							</li>
+							<!-- VICE SECRETARY -->
+							<li class="col-md-3">
+								<div class="church-team-grid-wrap">
+									<figure><a href="#"><img src="extra-images/pu/mary-njeri.png" alt="VICE SECRETARY"></a>
+										<figcaption>
+											<ul class="church-team-social">
+												<li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
+												<li><a href="https://twitter.com/login?lang=en" class="fa fa-twitter-square"></a></li>
+												<li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
+												<li><a href="https://www.youtube.com/signin" class="fa fa-youtube-square"></a></li>
+											</ul>
+										</figcaption>
+									</figure>
+									<div class="church-team-grid-text">
+										<h2><a href="#">MARY NJERI</a></h2>
+										<span>VICE SECRETARY</span>
+										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales.<br><br><br> </p>
+									</div>
+								</div>
+							</li>
+							<!-- ICT COORDINATOR -->
+							<li class="col-md-3">
+								<div class="church-team-grid-wrap">
+									<figure><a href="#"><img src="extra-images/pu/vickie.jpg" alt="ICT CO-ORDINATOR"></a>
 										<figcaption>
 											<ul class="church-team-social">
 												<li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
@@ -123,6 +186,27 @@ include('includes/header.php');
 									</div>
 								</div>
 							</li>
+							<!-- PRAYER COORDINATOR -->
+							<li class="col-md-3">
+								<div class="church-team-grid-wrap">
+									<figure><a href="#"><img src="extra-images/pu/marvin.png" alt="PRAYER CO-ORDINATOR"></a>
+										<figcaption>
+											<ul class="church-team-social">
+												<li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
+												<li><a href="https://twitter.com/login?lang=en" class="fa fa-twitter-square"></a></li>
+												<li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
+												<li><a href="https://www.youtube.com/signin" class="fa fa-youtube-square"></a></li>
+											</ul>
+										</figcaption>
+									</figure>
+									<div class="church-team-grid-text">
+										<h2><a href="#">MARVIN ABWARO</a></h2>
+										<span>PRAYER CO-ORDINATOR</span>
+										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id.<br><br><br></p>
+									</div>
+								</div>
+							</li>
+							<!-- DISCIPLESHIP -->
 							<li class="col-md-3">
 								<div class="church-team-grid-wrap">
 									<figure><a href="#"><img src="extra-images/pu/mercy.jpg" alt="DISCIPLESHIP CO-ORDINATOR"></a>
@@ -138,6 +222,26 @@ include('includes/header.php');
 									<div class="church-team-grid-text">
 										<h2><a href="#">MERCY KIMONYI</a></h2>
 										<span>DISCIPLESHIP CO-ORDINATOR</span>
+										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales.</p>
+									</div>
+								</div>
+							</li>
+							<!-- CM COORDINATOR -->
+							<li class="col-md-3">
+								<div class="church-team-grid-wrap">
+									<figure><a href="#"><img src="extra-images/pu/sammy-maina.png" alt="CREATIVE MINISTRY CO-ORDINATOR"></a>
+										<figcaption>
+											<ul class="church-team-social">
+												<li><a href="https://www.facebook.com/" class="fa fa-facebook-square"></a></li>
+												<li><a href="https://twitter.com/login?lang=en" class="fa fa-twitter-square"></a></li>
+												<li><a href="https://plus.google.com/" class="fa fa-google-plus-square"></a></li>
+												<li><a href="https://www.youtube.com/signin" class="fa fa-youtube-square"></a></li>
+											</ul>
+										</figcaption>
+									</figure>
+									<div class="church-team-grid-text">
+										<h2><a href="#">SAMMY MAINA</a></h2>
+										<span>CREATIVE MINISTRY CO-ORDINATOR</span>
 										<p>Sed vulputate elementum aliq Nunc vel efficitur ante. Ut gri nulla id ornare sodales.</p>
 									</div>
 								</div>
