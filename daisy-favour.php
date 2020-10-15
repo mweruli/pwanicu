@@ -49,7 +49,7 @@ include('includes/header.php');  ?>
                         <ul class="row">
                             <li class="col-md-12">
                                 <div class="church-cause-list-wrap">
-                                    <figure><a href="alumni.php"><img src="extra-images/pu/daisy-favour.JPG" alt=""><span>DAISY FAVOUR</span></a></figure>
+                                    <figure><a href="alumni.php"><img src="extra-images/pu/daisy-favour.jpeg" alt=""><span>DAISY FAVOUR</span></a></figure>
                                     <div class="church-cause-list-text">
                                         <h2><a href="error.php">DAISY FAVOUR</a></h2>
                                         <span><strong>SERVICE FROM:</strong> 2019 </span>

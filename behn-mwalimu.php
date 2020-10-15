@@ -49,18 +49,21 @@ include('includes/header.php');  ?>
                         <ul class="row">
                             <li class="col-md-12">
                                 <div class="church-cause-list-wrap">
-                                    <figure><a href="alumni.php"><img src="extra-images/pu/behn-mwalimu.JPG" alt=""><span>BENSON MWANGI</span></a></figure>
+                                    <figure><a href="alumni.php"><img src="extra-images/pu/behn.png" alt=""><span>BENSON MWANGI</span></a></figure>
                                     <div class="church-cause-list-text">
                                         <h2><a href="error.php">BENSON MWANGI</a></h2>
                                         <span><strong>SERVICE FROM:</strong> 2019 </span>
                                         <span class="church-color"><strong>SERVICE TO:</strong>2020</span>
-                                        <p>"When I became a believer in Jesus Christ, I was excited about what that meant for me...I mean, think about it! I had been saved from the penalty and guilt over past sins--who wouldn't want that?"</p>
+                                        <p class="text-justify">I am Benson R Mwangi an associate of Pwani Cu I graduated in 2019 with <strong>Bed Arts</strong> (Kisw and Hist).</p>
                                     </div>
                                 </div>
                             </li>
                             <li class="col-md-12 church-cause-list-wrap mt-0">
-                                <p class="text-justify">And I was saved from the power of sin over me, so I no longer had to be trapped by the attitudes and actions that kept me in a state of disgust with myself, much less was displeasing God! I looked forward to the day when I would even be free from the presence of sin and evil! I was very good at determining what, in my new "walk," would be good for me, and what was not.</p>
-                                <p class="text-justify">And I was saved from the power of sin over me, so I no longer had to be trapped by the attitudes and actions that kept me in a state of disgust with myself, much less was displeasing God! I looked forward to the day when I would even be free from the presence of sin and evil! I was very good at determining what, in my new "walk," would be good for me, and what was not.</p>
+                                <p class="text-justify">Back at Pwani I was serving in decoration team, ushering and catering departments. I was privileged to serve as the brother’s coordinator.<br> At the cu my life turned around, met Jesus in year two and got another reason to live for. Learned more about God, Holy Spirit, Jesus, salvation, Godly dating, agape love plus other wonderful topics which have been my foundation in my salvation journey.  </p>
+                                <p class="text-justify">Through the CU I learnt how to express myself in public, to socialize, serve God and developed leadership skills. <br>I see the Cu, increasing the membership, impacting the Pwani community positively through the good news and a place of mentoring the future leaders, change makers, and revivalists.</p>
+                                 <p class="h4 mt-3 text-center font-weight-bold text-primary text-uppercase">
+                                    Yours in Christ service, <br> Benson Mwangi.
+                                </p>
                             </li>
                         </ul>
                     </div>
